@@ -1,7 +1,8 @@
 {
   "functions": {
-    "api/decorations.js": {
-      "includeFiles": "data/decorations.csv"
+    "api/*.js": {
+      "includeFiles": "data/**",
+      "maxDuration": 30
     }
   }
 }

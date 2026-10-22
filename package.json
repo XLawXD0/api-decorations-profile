@@ -1,8 +1,10 @@
 {
-  "name": "discord-decorations-api",
+  "name": "discord-decoration-api",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
   "dependencies": {
-    "csv-parse": "^5.5.6"
+    "cheerio": "^1.0.0"
   }
 }

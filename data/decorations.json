@@ -1,0 +1,7583 @@
+[
+ {
+  "name": "Trick Pumpkin",
+  "aliases": [],
+  "file": "trick_pumpkin.png",
+  "image_url": "https://discord-decoration.art/decorations/trick_pumpkin.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween '25"
+  ],
+  "description": "A spooky pumpkin with a trick in hand."
+ },
+ {
+  "name": "Treat Pumpkin",
+  "aliases": [],
+  "file": "treat_pumpkin.png",
+  "image_url": "https://discord-decoration.art/decorations/treat_pumpkin.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween '25"
+  ],
+  "description": "A spooky pumpkin with a treat in hand."
+ },
+ {
+  "name": "Trick Spider",
+  "aliases": [],
+  "file": "trick_spider.png",
+  "image_url": "https://discord-decoration.art/decorations/trick_spider.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween '25"
+  ],
+  "description": "A spooky spider with a trick in hand."
+ },
+ {
+  "name": "Treat Spider",
+  "aliases": [],
+  "file": "treat_spider.png",
+  "image_url": "https://discord-decoration.art/decorations/treat_spider.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween '25"
+  ],
+  "description": "A spooky spider with a treat in hand."
+ },
+ {
+  "name": "Trick Skull",
+  "aliases": [],
+  "file": "trick_skull.png",
+  "image_url": "https://discord-decoration.art/decorations/trick_skull.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween '25"
+  ],
+  "description": "A spooky skull with a trick in hand."
+ },
+ {
+  "name": "Treat Skull",
+  "aliases": [],
+  "file": "treat_skull.png",
+  "image_url": "https://discord-decoration.art/decorations/treat_skull.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween '25"
+  ],
+  "description": "A spooky skull with a treat in hand."
+ },
+ {
+  "name": "Trick Ghost",
+  "aliases": [],
+  "file": "trick_ghost.png",
+  "image_url": "https://discord-decoration.art/decorations/trick_ghost.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween '25"
+  ],
+  "description": "A spooky ghost with a trick in hand."
+ },
+ {
+  "name": "Treat Ghost",
+  "aliases": [],
+  "file": "treat_ghost.png",
+  "image_url": "https://discord-decoration.art/decorations/treat_ghost.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween '25"
+  ],
+  "description": "A spooky ghost with a treat in hand."
+ },
+ {
+  "name": "Heart-to-Heart",
+  "aliases": [],
+  "file": "heart_to_heart.png",
+  "image_url": "https://discord-decoration.art/decorations/heart_to_heart.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "Feel the love all around. Given to Nitro gifters in February 2025."
+ },
+ {
+  "name": "Holiday Cat Ears",
+  "aliases": [],
+  "file": "santa_cat_ears.png",
+  "image_url": "https://discord-decoration.art/decorations/santa_cat_ears.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "o<≽^ᴖ ωᴖ^≼ Given to Nitro gifters in December 2024."
+ },
+ {
+  "name": "Daredevil",
+  "aliases": [],
+  "file": "daredevil.png",
+  "image_url": "https://discord-decoration.art/decorations/daredevil.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Marvel Rivals Quest S4.5 Quest for a limited time. Available to use until December 17, 2025."
+ },
+ {
+  "name": "Lover Girl Autumn",
+  "aliases": [],
+  "file": "lover_girl_autumn.png",
+  "image_url": "https://discord-decoration.art/decorations/lover_girl_autumn.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Autumn Foliage",
+  "aliases": [],
+  "file": "autumn_foliage.png",
+  "image_url": "https://discord-decoration.art/decorations/autumn_foliage.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Moomoo Hood",
+  "aliases": [],
+  "file": "moomoo_hood.png",
+  "image_url": "https://discord-decoration.art/decorations/moomoo_hood.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Milk Cup Quest for a limited time. Available to use until September 10, 2025."
+ },
+ {
+  "name": "VALORANT Summer Kickoff",
+  "aliases": [],
+  "file": "valorant_summer_kickoff.png",
+  "image_url": "https://discord-decoration.art/decorations/valorant_summer_kickoff.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the VALORANT Summer Kickoff Quest for a limited time. Available to use until August 29, 2025."
+ },
+ {
+  "name": "I Love R.E.P.O.",
+  "aliases": [],
+  "file": "i_love_repo.png",
+  "image_url": "https://discord-decoration.art/decorations/i_love_repo.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the R.E.P.O. Quest for a limited time. Available to use until August 23, 2025."
+ },
+ {
+  "name": "Freezer Bunny Lovebug",
+  "aliases": [],
+  "file": "freezer_bunny_lovebug.png",
+  "image_url": "https://discord-decoration.art/decorations/freezer_bunny_lovebug.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "A Sim's coolest companion! Available to use until September 30, 2024."
+ },
+ {
+  "name": "Blue Headset",
+  "aliases": [
+   "DISXCORE Headset"
+  ],
+  "file": "disxcore_headset.png",
+  "image_url": "https://discord-decoration.art/decorations/disxcore_headset.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Gaming"
+  ],
+  "collections": [
+   "Discord 8th Birthday",
+   "Disxcore"
+  ],
+  "description": "Everything sounds better with these on."
+ },
+ {
+  "name": "Pink Headset",
+  "aliases": [],
+  "file": "pink_headset.png",
+  "image_url": "https://discord-decoration.art/decorations/pink_headset.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Everything sounds better with these on."
+ },
+ {
+  "name": "Green Headset",
+  "aliases": [],
+  "file": "green_headset.png",
+  "image_url": "https://discord-decoration.art/decorations/green_headset.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Everything sounds better with these on."
+ },
+ {
+  "name": "Blue Futuristic UI",
+  "aliases": [],
+  "file": "blue_futuristic_ui.png",
+  "image_url": "https://discord-decoration.art/decorations/blue_futuristic_ui.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "BEEP BOOP"
+ },
+ {
+  "name": "Pink Futuristic UI",
+  "aliases": [
+   "Futuristic UI"
+  ],
+  "file": "pink_futuristic_ui.png",
+  "image_url": "https://discord-decoration.art/decorations/pink_futuristic_ui.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Discord 8th Birthday",
+   "Disxcore"
+  ],
+  "description": "BEEP BOOP"
+ },
+ {
+  "name": "Green Futuristic UI",
+  "aliases": [],
+  "file": "green_futuristic_ui.png",
+  "image_url": "https://discord-decoration.art/decorations/green_futuristic_ui.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "BEEP BOOP"
+ },
+ {
+  "name": "Blue Smoke",
+  "aliases": [],
+  "file": "blue_smoke.png",
+  "image_url": "https://discord-decoration.art/decorations/blue_smoke.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Now you see me, now you don't"
+ },
+ {
+  "name": "Pink Smoke",
+  "aliases": [],
+  "file": "pink_smoke.png",
+  "image_url": "https://discord-decoration.art/decorations/pink_smoke.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Now you see me, now you don't"
+ },
+ {
+  "name": "Green Smoke",
+  "aliases": [],
+  "file": "green_smoke.png",
+  "image_url": "https://discord-decoration.art/decorations/green_smoke.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Now you see me, now you don't"
+ },
+ {
+  "name": "Blue Gyroscope",
+  "aliases": [],
+  "file": "blue_gyroscope.png",
+  "image_url": "https://discord-decoration.art/decorations/blue_gyroscope.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Keeping your avatar stable while stylish."
+ },
+ {
+  "name": "Pink Gyroscope",
+  "aliases": [],
+  "file": "pink_gyroscope.png",
+  "image_url": "https://discord-decoration.art/decorations/pink_gyroscope.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Keeping your avatar stable while stylish."
+ },
+ {
+  "name": "Green Gyroscope",
+  "aliases": [],
+  "file": "green_gyroscope.png",
+  "image_url": "https://discord-decoration.art/decorations/green_gyroscope.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Keeping your avatar stable while stylish."
+ },
+ {
+  "name": "Blue Shine Helmet",
+  "aliases": [],
+  "file": "blue_shine_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/blue_shine_helmet.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Always wear your helmet."
+ },
+ {
+  "name": "Pink Shine Helmet",
+  "aliases": [],
+  "file": "pink_shine_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/pink_shine_helmet.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Always wear your helmet."
+ },
+ {
+  "name": "Green Shine Helmet",
+  "aliases": [],
+  "file": "green_shine_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/green_shine_helmet.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Always wear your helmet."
+ },
+ {
+  "name": "Blue Hyper Helmet",
+  "aliases": [],
+  "file": "blue_hyper_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/blue_hyper_helmet.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Always wear your helmet."
+ },
+ {
+  "name": "Pink Hyper Helmet",
+  "aliases": [],
+  "file": "pink_hyper_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/pink_hyper_helmet.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Always wear your helmet."
+ },
+ {
+  "name": "Green Hyper Helmet",
+  "aliases": [],
+  "file": "green_hyper_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/green_hyper_helmet.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Always wear your helmet."
+ },
+ {
+  "name": "Saw",
+  "aliases": [],
+  "file": "saw.png",
+  "image_url": "https://discord-decoration.art/decorations/saw.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Discord 8th Birthday"
+  ],
+  "description": "Here to make your avatar more stylish... and dangerous!"
+ },
+ {
+  "name": "Sakura",
+  "aliases": [],
+  "file": "sakura.png",
+  "image_url": "https://discord-decoration.art/decorations/sakura.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Spring '23",
+   "The Vault"
+  ],
+  "description": "Close your eyes and breathe."
+ },
+ {
+  "name": "Pink Sakura",
+  "aliases": [],
+  "file": "sakura_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/sakura_pink.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Spring '23",
+   "The Vault"
+  ],
+  "description": "Close your eyes and breathe."
+ },
+ {
+  "name": "Ukon Sakura",
+  "aliases": [],
+  "file": "sakura_ukon.png",
+  "image_url": "https://discord-decoration.art/decorations/sakura_ukon.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Spring '23",
+   "The Vault"
+  ],
+  "description": "Close your eyes and breathe."
+ },
+ {
+  "name": "Gyoiko Sakura",
+  "aliases": [],
+  "file": "sakura_gyoiko.png",
+  "image_url": "https://discord-decoration.art/decorations/sakura_gyoiko.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Spring '23",
+   "Nitro",
+   "The Vault"
+  ],
+  "description": "Close your eyes and breathe."
+ },
+ {
+  "name": "Mushroom #1",
+  "aliases": [],
+  "file": "mushroom_1.png",
+  "image_url": "https://discord-decoration.art/decorations/mushroom_1.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A mushroom."
+ },
+ {
+  "name": "Mushroom #2",
+  "aliases": [],
+  "file": "mushroom_2.png",
+  "image_url": "https://discord-decoration.art/decorations/mushroom_2.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A mushroom."
+ },
+ {
+  "name": "Mushroom #3",
+  "aliases": [],
+  "file": "mushroom_3.png",
+  "image_url": "https://discord-decoration.art/decorations/mushroom_3.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A mushroom."
+ },
+ {
+  "name": "Mushroom #4",
+  "aliases": [],
+  "file": "mushroom_4.png",
+  "image_url": "https://discord-decoration.art/decorations/mushroom_4.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A mushroom."
+ },
+ {
+  "name": "Forest",
+  "aliases": [],
+  "file": "forest.png",
+  "image_url": "https://discord-decoration.art/decorations/forest.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A forest."
+ },
+ {
+  "name": "Frog #1",
+  "aliases": [],
+  "file": "frog_1.png",
+  "image_url": "https://discord-decoration.art/decorations/frog_1.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "*ribbit*"
+ },
+ {
+  "name": "Frog #2",
+  "aliases": [
+   "Derpy Frog"
+  ],
+  "file": "frog_derpy.png",
+  "image_url": "https://discord-decoration.art/decorations/frog_derpy.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Spring '23",
+   "The Vault"
+  ],
+  "description": "*ribbit*"
+ },
+ {
+  "name": "Frog #3",
+  "aliases": [],
+  "file": "frog_3.png",
+  "image_url": "https://discord-decoration.art/decorations/frog_3.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "*ribbit*"
+ },
+ {
+  "name": "Frog #4",
+  "aliases": [
+   "Angry Frog"
+  ],
+  "file": "frog_angry.png",
+  "image_url": "https://discord-decoration.art/decorations/frog_angry.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Anime & TV"
+  ],
+  "collections": [
+   "Spring '23",
+   "The Vault"
+  ],
+  "description": "*ribbit*"
+ },
+ {
+  "name": "Lazy Cat #1",
+  "aliases": [],
+  "file": "cat_1.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_1.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A lazy cat."
+ },
+ {
+  "name": "Lazy Cat #2",
+  "aliases": [],
+  "file": "cat_2.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_2.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A lazy cat."
+ },
+ {
+  "name": "Lazy Cat #3",
+  "aliases": [],
+  "file": "cat_3.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_3.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A lazy cat."
+ },
+ {
+  "name": "Lazy Cat #4",
+  "aliases": [],
+  "file": "cat_4.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_4.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "A lazy cat."
+ },
+ {
+  "name": "Dogs #1",
+  "aliases": [],
+  "file": "dog_1.png",
+  "image_url": "https://discord-decoration.art/decorations/dog_1.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "Happy dogs."
+ },
+ {
+  "name": "Dogs #2",
+  "aliases": [],
+  "file": "dog_2.png",
+  "image_url": "https://discord-decoration.art/decorations/dog_2.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "Happy dogs."
+ },
+ {
+  "name": "Dogs #3",
+  "aliases": [],
+  "file": "dog_3.png",
+  "image_url": "https://discord-decoration.art/decorations/dog_3.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spring '23"
+  ],
+  "description": "Happy dogs."
+ },
+ {
+  "name": "Green Blanket",
+  "aliases": [],
+  "file": "blanket_green.png",
+  "image_url": "https://discord-decoration.art/decorations/blanket_green.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Orange Blanket",
+  "aliases": [],
+  "file": "blanket_orange.png",
+  "image_url": "https://discord-decoration.art/decorations/blanket_orange.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Pink Blanket",
+  "aliases": [],
+  "file": "blanket_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/blanket_pink.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Purple Blanket",
+  "aliases": [],
+  "file": "blanket_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/blanket_purple.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "White Box",
+  "aliases": [],
+  "file": "box_white_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/box_white_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Blue Box",
+  "aliases": [],
+  "file": "box_blue_yellow.png",
+  "image_url": "https://discord-decoration.art/decorations/box_blue_yellow.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Green Box",
+  "aliases": [],
+  "file": "box_green_red.png",
+  "image_url": "https://discord-decoration.art/decorations/box_green_red.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Red Box",
+  "aliases": [],
+  "file": "box_red_white.png",
+  "image_url": "https://discord-decoration.art/decorations/box_red_white.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Red White Box",
+  "aliases": [],
+  "file": "box_red_white_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/box_red_white_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Festive Confetti",
+  "aliases": [],
+  "file": "confetti_festive.png",
+  "image_url": "https://discord-decoration.art/decorations/confetti_festive.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Fire Confetti",
+  "aliases": [],
+  "file": "confetti_fire.png",
+  "image_url": "https://discord-decoration.art/decorations/confetti_fire.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Ice Confetti",
+  "aliases": [],
+  "file": "confetti_ice.png",
+  "image_url": "https://discord-decoration.art/decorations/confetti_ice.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Mint Confetti",
+  "aliases": [],
+  "file": "confetti_mint.png",
+  "image_url": "https://discord-decoration.art/decorations/confetti_mint.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Star Confetti",
+  "aliases": [],
+  "file": "confetti_star.png",
+  "image_url": "https://discord-decoration.art/decorations/confetti_star.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Vaporwave Confetti",
+  "aliases": [],
+  "file": "confetti_vaporwave.png",
+  "image_url": "https://discord-decoration.art/decorations/confetti_vaporwave.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Icecube",
+  "aliases": [],
+  "file": "ice_cube.png",
+  "image_url": "https://discord-decoration.art/decorations/ice_cube.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Gleaming Icicle",
+  "aliases": [],
+  "file": "icicle_gleaming.png",
+  "image_url": "https://discord-decoration.art/decorations/icicle_gleaming.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Snowing Icicle",
+  "aliases": [],
+  "file": "icicle_snowing.png",
+  "image_url": "https://discord-decoration.art/decorations/icicle_snowing.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Blue Teacup",
+  "aliases": [],
+  "file": "teacup_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/teacup_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Orange Teacup",
+  "aliases": [],
+  "file": "teacup_orange.png",
+  "image_url": "https://discord-decoration.art/decorations/teacup_orange.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Pink Teacup",
+  "aliases": [],
+  "file": "teacup_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/teacup_pink.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Red Teacup",
+  "aliases": [],
+  "file": "teacup_red.png",
+  "image_url": "https://discord-decoration.art/decorations/teacup_red.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Snowsgiving"
+  ],
+  "description": "Limited time decoration from December 2022. Given to all nitro subscribers."
+ },
+ {
+  "name": "Lunar Flowers",
+  "aliases": [],
+  "file": "lunar_flowers.png",
+  "image_url": "https://discord-decoration.art/decorations/lunar_flowers.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar Eclipse"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Starlight Tiara",
+  "aliases": [],
+  "file": "starlight_tiara.png",
+  "image_url": "https://discord-decoration.art/decorations/starlight_tiara.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar Eclipse"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Astral Aura",
+  "aliases": [],
+  "file": "astral_aura.png",
+  "image_url": "https://discord-decoration.art/decorations/astral_aura.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar Eclipse"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Luna Moths",
+  "aliases": [],
+  "file": "luna_moths.png",
+  "image_url": "https://discord-decoration.art/decorations/luna_moths.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar Eclipse"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Moonlit Charms",
+  "aliases": [],
+  "file": "moonlit_charms.png",
+  "image_url": "https://discord-decoration.art/decorations/moonlit_charms.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar Eclipse"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Liquid Moon",
+  "aliases": [],
+  "file": "liquid_moon.png",
+  "image_url": "https://discord-decoration.art/decorations/liquid_moon.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar Eclipse"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Neon Cat Hoodie",
+  "aliases": [],
+  "file": "neon_cat_hoodie.png",
+  "image_url": "https://discord-decoration.art/decorations/neon_cat_hoodie.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Neon Cat Hoodie (Blue)",
+  "aliases": [],
+  "file": "neon_cat_hoodie_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/neon_cat_hoodie_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Neon Cat Hoodie (Pink)",
+  "aliases": [],
+  "file": "neon_cat_hoodie_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/neon_cat_hoodie_pink.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Neon Cat Hoodie (Black)",
+  "aliases": [],
+  "file": "neon_cat_hoodie_black.png",
+  "image_url": "https://discord-decoration.art/decorations/neon_cat_hoodie_black.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mischievous Kitties (Hearts)",
+  "aliases": [],
+  "file": "mischievous_kitties_hearts.png",
+  "image_url": "https://discord-decoration.art/decorations/mischievous_kitties_hearts.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mister Fantastic",
+  "aliases": [],
+  "file": "mister_fantastic.png",
+  "image_url": "https://discord-decoration.art/decorations/mister_fantastic.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fantastic 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "The Fantastic Four",
+  "aliases": [],
+  "file": "the_fantastic_four.png",
+  "image_url": "https://discord-decoration.art/decorations/the_fantastic_four.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fantastic 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Spirit Blossom Springs Sett",
+  "aliases": [],
+  "file": "spirit_blossom_springs_sett.png",
+  "image_url": "https://discord-decoration.art/decorations/spirit_blossom_springs_sett.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spirit Blossom Beyond"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Spirit Blossom Springs",
+  "aliases": [],
+  "file": "spirit_blossom_springs.png",
+  "image_url": "https://discord-decoration.art/decorations/spirit_blossom_springs.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spirit Blossom Beyond"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Spirit Blossom Springs Ahri",
+  "aliases": [],
+  "file": "spirit_blossom_springs_ahri.png",
+  "image_url": "https://discord-decoration.art/decorations/spirit_blossom_springs_ahri.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spirit Blossom Beyond"
+  ],
+  "description": ""
+ },
+ {
+  "name": "aespa Fanlight",
+  "aliases": [],
+  "file": "aespa_fanlight.png",
+  "image_url": "https://discord-decoration.art/decorations/aespa_fanlight.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "aespa"
+  ],
+  "description": "Shine bright with aespa’s iconic fanlight!"
+ },
+ {
+  "name": "Shy (In Love)",
+  "aliases": [],
+  "file": "shy_in_love.png",
+  "image_url": "https://discord-decoration.art/decorations/shy_in_love.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Notice me! Just not too much..."
+ },
+ {
+  "name": "In Love",
+  "aliases": [],
+  "file": "in_love.png",
+  "image_url": "https://discord-decoration.art/decorations/in_love.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2",
+   "Anime"
+  ],
+  "description": "uwu"
+ },
+ {
+  "name": "In Love (Blue)",
+  "aliases": [],
+  "file": "in_love_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/in_love_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "uwu"
+ },
+ {
+  "name": "In Love (Green)",
+  "aliases": [],
+  "file": "in_love_green.png",
+  "image_url": "https://discord-decoration.art/decorations/in_love_green.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "uwu"
+ },
+ {
+  "name": "Heartbloom",
+  "aliases": [],
+  "file": "heartbloom.png",
+  "image_url": "https://discord-decoration.art/decorations/heartbloom.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2"
+  ],
+  "description": "Let your love blossom."
+ },
+ {
+  "name": "Heartbloom (Purple)",
+  "aliases": [],
+  "file": "heartbloom_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/heartbloom_purple.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Let your love blossom."
+ },
+ {
+  "name": "Heartbloom (Blue)",
+  "aliases": [],
+  "file": "heartbloom_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/heartbloom_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Let your love blossom."
+ },
+ {
+  "name": "Heartbloom (Yellow)",
+  "aliases": [],
+  "file": "heartbloom_yellow.png",
+  "image_url": "https://discord-decoration.art/decorations/heartbloom_yellow.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Let your love blossom."
+ },
+ {
+  "name": "Heartbloom (Green)",
+  "aliases": [],
+  "file": "heartbloom_green.png",
+  "image_url": "https://discord-decoration.art/decorations/heartbloom_green.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Let your love blossom."
+ },
+ {
+  "name": "Rose Bearer (Pink)",
+  "aliases": [],
+  "file": "rose_bearer_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/rose_bearer_pink.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "Bear hugs and roses never miss."
+ },
+ {
+  "name": "Rose Bearer (Blue)",
+  "aliases": [],
+  "file": "rose_bearer_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/rose_bearer_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "Bear hugs and roses never miss."
+ },
+ {
+  "name": "Angel",
+  "aliases": [],
+  "file": "angel.png",
+  "image_url": "https://discord-decoration.art/decorations/angel.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "Every Angel needs their Devil-in-crime."
+ },
+ {
+  "name": "Devil",
+  "aliases": [],
+  "file": "devil.png",
+  "image_url": "https://discord-decoration.art/decorations/devil.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "Every Devil needs their Angel-in-crime."
+ },
+ {
+  "name": "Aim for Love",
+  "aliases": [],
+  "file": "aim_for_love.png",
+  "image_url": "https://discord-decoration.art/decorations/aim_for_love.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "Shoot your shot! Results may vary."
+ },
+ {
+  "name": "Lovestruck",
+  "aliases": [],
+  "file": "lovestruck.png",
+  "image_url": "https://discord-decoration.art/decorations/lovestruck.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "It appears you have a secret admirer."
+ },
+ {
+  "name": "Ring of Roses (Red)",
+  "aliases": [],
+  "file": "ring_of_roses_red.png",
+  "image_url": "https://discord-decoration.art/decorations/ring_of_roses_red.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "There's always time to stop and frame the roses."
+ },
+ {
+  "name": "Ring of Roses (Blue)",
+  "aliases": [],
+  "file": "ring_of_roses_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/ring_of_roses_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "There's always time to stop and frame the roses."
+ },
+ {
+  "name": "Heartstrings (Red)",
+  "aliases": [],
+  "file": "heartstrings_red.png",
+  "image_url": "https://discord-decoration.art/decorations/heartstrings_red.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "Pull with care."
+ },
+ {
+  "name": "Heartstrings (Blue)",
+  "aliases": [],
+  "file": "heartstrings_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/heartstrings_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Valentines"
+  ],
+  "description": "Pull with care."
+ },
+ {
+  "name": "Ruby Hearts",
+  "aliases": [],
+  "file": "ruby_hearts.png",
+  "image_url": "https://discord-decoration.art/decorations/ruby_hearts.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "JENNIE"
+  ],
+  "description": "JENNIE Exclusive Avatar Decoration. Only on Discord."
+ },
+ {
+  "name": "Snake's Hug",
+  "aliases": [],
+  "file": "snakes_hug.png",
+  "image_url": "https://discord-decoration.art/decorations/snakes_hug.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "Trying to ward off bad luck? Your snake companion's got you covered."
+ },
+ {
+  "name": "Lotus Flower",
+  "aliases": [],
+  "file": "lotus_flower.png",
+  "image_url": "https://discord-decoration.art/decorations/lotus_flower.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "Every petal, a promise of new beginnings."
+ },
+ {
+  "name": "Red Lantern",
+  "aliases": [],
+  "file": "red_lantern.png",
+  "image_url": "https://discord-decoration.art/decorations/red_lantern.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "May you shine bright and boldly."
+ },
+ {
+  "name": "Fan Flourish",
+  "aliases": [],
+  "file": "fan_flourish.png",
+  "image_url": "https://discord-decoration.art/decorations/fan_flourish.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "Incredibly fan-tastic."
+ },
+ {
+  "name": "Lunar Lanterns",
+  "aliases": [],
+  "file": "lunar_lanterns.png",
+  "image_url": "https://discord-decoration.art/decorations/lunar_lanterns.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "Light the night."
+ },
+ {
+  "name": "Firecrackers",
+  "aliases": [],
+  "file": "firecrackers.png",
+  "image_url": "https://discord-decoration.art/decorations/firecrackers.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "Don't try this at home!"
+ },
+ {
+  "name": "Dragon's Smile",
+  "aliases": [],
+  "file": "dragons_smile.png",
+  "image_url": "https://discord-decoration.art/decorations/dragons_smile.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "A dragon's grin fills your year with laughs."
+ },
+ {
+  "name": "Lucky Envelopes",
+  "aliases": [],
+  "file": "lucky_envelopes.png",
+  "image_url": "https://discord-decoration.art/decorations/lucky_envelopes.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "Capacity: 888 coins."
+ },
+ {
+  "name": "Koi Pond",
+  "aliases": [],
+  "file": "koi_pond.png",
+  "image_url": "https://discord-decoration.art/decorations/koi_pond.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Lunar New Year"
+  ],
+  "description": "Swimming in an eternal, peaceful circle."
+ },
+ {
+  "name": "Aurora",
+  "aliases": [],
+  "file": "aurora.png",
+  "image_url": "https://discord-decoration.art/decorations/aurora.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Even the stars can't help but admire the view."
+ },
+ {
+  "name": "Polar Bear Hat",
+  "aliases": [],
+  "file": "polar_bear_hat.png",
+  "image_url": "https://discord-decoration.art/decorations/polar_bear_hat.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Soft, cuddly, and a little bit snuffly."
+ },
+ {
+  "name": "String Lights",
+  "aliases": [],
+  "file": "string_lights.png",
+  "image_url": "https://discord-decoration.art/decorations/string_lights.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "String up some holiday cheer."
+ },
+ {
+  "name": "String Lights (Aurora)",
+  "aliases": [],
+  "file": "string_lights_aurora.png",
+  "image_url": "https://discord-decoration.art/decorations/string_lights_aurora.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "String up some holiday cheer."
+ },
+ {
+  "name": "String Lights (Ember)",
+  "aliases": [],
+  "file": "string_lights_ember.png",
+  "image_url": "https://discord-decoration.art/decorations/string_lights_ember.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "String up some holiday cheer."
+ },
+ {
+  "name": "String Lights (Dusk)",
+  "aliases": [],
+  "file": "string_lights_dusk.png",
+  "image_url": "https://discord-decoration.art/decorations/string_lights_dusk.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "String up some holiday cheer."
+ },
+ {
+  "name": "String Lights (Mix)",
+  "aliases": [],
+  "file": "string_lights_mix.png",
+  "image_url": "https://discord-decoration.art/decorations/string_lights_mix.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "String up some holiday cheer."
+ },
+ {
+  "name": "Snowglobe",
+  "aliases": [],
+  "file": "snowglobe.png",
+  "image_url": "https://discord-decoration.art/decorations/snowglobe.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Try not to shake too hard."
+ },
+ {
+  "name": "Snowglobe (Wood)",
+  "aliases": [],
+  "file": "snowglobe_wood.png",
+  "image_url": "https://discord-decoration.art/decorations/snowglobe_wood.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Try not to shake too hard."
+ },
+ {
+  "name": "Snowglobe (Pink)",
+  "aliases": [],
+  "file": "snowglobe_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/snowglobe_pink.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Try not to shake too hard."
+ },
+ {
+  "name": "Snowglobe (Blue)",
+  "aliases": [],
+  "file": "snowglobe_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/snowglobe_blue.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Try not to shake too hard."
+ },
+ {
+  "name": "Snowglobe (Green)",
+  "aliases": [],
+  "file": "snowglobe_green.png",
+  "image_url": "https://discord-decoration.art/decorations/snowglobe_green.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Try not to shake too hard."
+ },
+ {
+  "name": "Fresh Pine",
+  "aliases": [],
+  "file": "fresh_pine.png",
+  "image_url": "https://discord-decoration.art/decorations/fresh_pine.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Ah...the smell of Winter."
+ },
+ {
+  "name": "Fresh Pine (Cinnamon)",
+  "aliases": [],
+  "file": "fresh_pine_cinnamon.png",
+  "image_url": "https://discord-decoration.art/decorations/fresh_pine_cinnamon.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Ah...the smell of Winter."
+ },
+ {
+  "name": "Fresh Pine (Ribbon)",
+  "aliases": [],
+  "file": "fresh_pine_ribbon.png",
+  "image_url": "https://discord-decoration.art/decorations/fresh_pine_ribbon.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Ah...the smell of Winter."
+ },
+ {
+  "name": "Spooky Cat Ears",
+  "aliases": [],
+  "file": "spooky_cat_ears.png",
+  "image_url": "https://discord-decoration.art/decorations/spooky_cat_ears.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "≽ ^ ʘ⩊ʘ ^ ≼"
+ },
+ {
+  "name": "Spooky Cat Ears (Midnight)",
+  "aliases": [],
+  "file": "spooky_cat_ears_midnight.png",
+  "image_url": "https://discord-decoration.art/decorations/spooky_cat_ears_midnight.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "≽ ^ ʘ⩊ʘ ^ ≼"
+ },
+ {
+  "name": "Candlelight",
+  "aliases": [],
+  "file": "candlelight.png",
+  "image_url": "https://discord-decoration.art/decorations/candlelight.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Now you can see in the dark. But so can they..."
+ },
+ {
+  "name": "Crimson Candlelight",
+  "aliases": [],
+  "file": "candlelight_crimson.png",
+  "image_url": "https://discord-decoration.art/decorations/candlelight_crimson.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Now you can see in the dark. But so can they..."
+ },
+ {
+  "name": "Dark Candlelight",
+  "aliases": [],
+  "file": "candlelight_dark.png",
+  "image_url": "https://discord-decoration.art/decorations/candlelight_dark.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Now you can see in the dark. But so can they..."
+ },
+ {
+  "name": "Dark Hood",
+  "aliases": [],
+  "file": "hood_dark.png",
+  "image_url": "https://discord-decoration.art/decorations/hood_dark.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "You definitely don't look suspicious at all."
+ },
+ {
+  "name": "Crimson Hood",
+  "aliases": [],
+  "file": "hood_crimson.png",
+  "image_url": "https://discord-decoration.art/decorations/hood_crimson.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "You definitely don't look suspicious at all."
+ },
+ {
+  "name": "Plum Witch Hat",
+  "aliases": [],
+  "file": "witch_hat_plum.png",
+  "image_url": "https://discord-decoration.art/decorations/witch_hat_plum.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Mischief looks good on you."
+ },
+ {
+  "name": "Midnight Witch Hat",
+  "aliases": [],
+  "file": "witch_hat_midnight.png",
+  "image_url": "https://discord-decoration.art/decorations/witch_hat_midnight.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Mischief looks good on you."
+ },
+ {
+  "name": "Zombie Food",
+  "aliases": [],
+  "file": "zombie_food.png",
+  "image_url": "https://discord-decoration.art/decorations/zombie_food.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Looks like you weren't fast enough. Unlucky."
+ },
+ {
+  "name": "Zombie Food (Purple)",
+  "aliases": [],
+  "file": "zombie_food_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/zombie_food_purple.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Looks like you weren't fast enough. Unlucky."
+ },
+ {
+  "name": "Bloodthirsty",
+  "aliases": [],
+  "file": "bloodthirsty.png",
+  "image_url": "https://discord-decoration.art/decorations/bloodthirsty.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Just a bite..."
+ },
+ {
+  "name": "Bloodthirsty (Green)",
+  "aliases": [],
+  "file": "bloodthirsty_green.png",
+  "image_url": "https://discord-decoration.art/decorations/bloodthirsty_green.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Just a bite..."
+ },
+ {
+  "name": "Bloodthirsty (Gold)",
+  "aliases": [],
+  "file": "bloodthirsty_gold.png",
+  "image_url": "https://discord-decoration.art/decorations/bloodthirsty_gold.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Spooky Night"
+  ],
+  "description": "Just a bite..."
+ },
+ {
+  "name": "Twilight Chrysanthemums",
+  "aliases": [],
+  "file": "chrysanthemums_twilight.png",
+  "image_url": "https://discord-decoration.art/decorations/chrysanthemums_twilight.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "Transformation is a dance where your inner beauty finds its rhythm."
+ },
+ {
+  "name": "Morning Chrysanthemums",
+  "aliases": [],
+  "file": "chrysanthemums_morning.png",
+  "image_url": "https://discord-decoration.art/decorations/chrysanthemums_morning.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "Transformation is a dance where your inner beauty finds its rhythm."
+ },
+ {
+  "name": "Dusk and Dawn",
+  "aliases": [],
+  "file": "dusk_and_dawn.png",
+  "image_url": "https://discord-decoration.art/decorations/dusk_and_dawn.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "Illuminate yourself with the light of the moon and sun."
+ },
+ {
+  "name": "Floral Harmony",
+  "aliases": [],
+  "file": "floral_harmony.png",
+  "image_url": "https://discord-decoration.art/decorations/floral_harmony.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "A touch of day and night woven into every petal."
+ },
+ {
+  "name": "Floral Harmony (Sunburst)",
+  "aliases": [],
+  "file": "floral_harmony_sunburst.png",
+  "image_url": "https://discord-decoration.art/decorations/floral_harmony_sunburst.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "A touch of day and night woven into every petal."
+ },
+ {
+  "name": "Autumn's Arbor",
+  "aliases": [],
+  "file": "autumns_arbor.png",
+  "image_url": "https://discord-decoration.art/decorations/autumns_arbor.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "Where day and night share equal ground."
+ },
+ {
+  "name": "Autumn's Arbor (Aurora)",
+  "aliases": [],
+  "file": "autumns_arbor_aurora.png",
+  "image_url": "https://discord-decoration.art/decorations/autumns_arbor_aurora.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "Where day and night share equal ground."
+ },
+ {
+  "name": "Autumn Crown",
+  "aliases": [],
+  "file": "autumn_crown.png",
+  "image_url": "https://discord-decoration.art/decorations/autumn_crown.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "A crown of nature's finest, with autumn's special touch."
+ },
+ {
+  "name": "Faces of the Moon",
+  "aliases": [],
+  "file": "faces_of_the_moon.png",
+  "image_url": "https://discord-decoration.art/decorations/faces_of_the_moon.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Autumn Equinox"
+  ],
+  "description": "The moon tells its tale in shadows and light... listen...."
+ },
+ {
+  "name": "Fox Hat",
+  "aliases": [],
+  "file": "fox_hat.png",
+  "image_url": "https://discord-decoration.art/decorations/fox_hat.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fall 2",
+   "Fall"
+  ],
+  "description": "Charming, cozy, and a little bit nosy."
+ },
+ {
+  "name": "Chestnut Fox Hat",
+  "aliases": [],
+  "file": "fox_hat_chestnut.png",
+  "image_url": "https://discord-decoration.art/decorations/fox_hat_chestnut.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fall 2"
+  ],
+  "description": "Charming, cozy, and a little bit nosy."
+ },
+ {
+  "name": "Snow Fox Hat",
+  "aliases": [],
+  "file": "fox_hat_snow.png",
+  "image_url": "https://discord-decoration.art/decorations/fox_hat_snow.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fall 2"
+  ],
+  "description": "Charming, cozy, and a little bit nosy."
+ },
+ {
+  "name": "Fall Leaves",
+  "aliases": [],
+  "file": "fall_leaves.png",
+  "image_url": "https://discord-decoration.art/decorations/fall_leaves.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fall 2",
+   "Fall"
+  ],
+  "description": "Behold nature's dance."
+ },
+ {
+  "name": "Scarlet Leaves",
+  "aliases": [],
+  "file": "fall_leaves_scarlet.png",
+  "image_url": "https://discord-decoration.art/decorations/fall_leaves_scarlet.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fall 2"
+  ],
+  "description": "Behold nature's dance."
+ },
+ {
+  "name": "Woodland Leaves",
+  "aliases": [],
+  "file": "fall_leaves_woodland.png",
+  "image_url": "https://discord-decoration.art/decorations/fall_leaves_woodland.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fall 2"
+  ],
+  "description": "Behold nature's dance."
+ },
+ {
+  "name": "A Hint of Clove",
+  "aliases": [],
+  "file": "a_hint_of_clove.png",
+  "image_url": "https://discord-decoration.art/decorations/a_hint_of_clove.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS",
+   "VALORANT"
+  ],
+  "description": "Back again from the great beyond."
+ },
+ {
+  "name": "Honeyblossom",
+  "aliases": [],
+  "file": "honeyblossom.png",
+  "image_url": "https://discord-decoration.art/decorations/honeyblossom.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Springtoon"
+  ],
+  "description": "Buzz meets bloom."
+ },
+ {
+  "name": "Dandelion Duo",
+  "aliases": [],
+  "file": "dandelion_duo.png",
+  "image_url": "https://discord-decoration.art/decorations/dandelion_duo.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Springtoon"
+  ],
+  "description": "Strengths: Cute and fluffy. Weaknesses: The breeze."
+ },
+ {
+  "name": "Hugh the Rainbow",
+  "aliases": [],
+  "file": "hugh_the_rainbow.png",
+  "image_url": "https://discord-decoration.art/decorations/hugh_the_rainbow.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Springtoon"
+  ],
+  "description": "Does he have a hue for every mood?"
+ },
+ {
+  "name": "Strawberry Vine",
+  "aliases": [],
+  "file": "strawberry_vine.png",
+  "image_url": "https://discord-decoration.art/decorations/strawberry_vine.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Springtoon"
+  ],
+  "description": "Now that's a sweet harvest."
+ },
+ {
+  "name": "Butterflies",
+  "aliases": [],
+  "file": "butterflies.png",
+  "image_url": "https://discord-decoration.art/decorations/butterflies.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Springtoon"
+  ],
+  "description": "We shall tickle the clouds today - join us!"
+ },
+ {
+  "name": "The Petal Pack",
+  "aliases": [],
+  "file": "the_petal_pack.png",
+  "image_url": "https://discord-decoration.art/decorations/the_petal_pack.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Springtoon"
+  ],
+  "description": "Comes with sunshine and smiles."
+ },
+ {
+  "name": "New Year",
+  "aliases": [],
+  "file": "new_year_2024.png",
+  "image_url": "https://discord-decoration.art/decorations/new_year_2024.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Winter Wonderland"
+  ],
+  "description": "Ringing in 2024!"
+ },
+ {
+  "name": "Graveyard Cat",
+  "aliases": [],
+  "file": "graveyard_cat.png",
+  "image_url": "https://discord-decoration.art/decorations/graveyard_cat.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween"
+  ],
+  "description": "Just a cat on graveyard duty."
+ },
+ {
+  "name": "Ghosts",
+  "aliases": [],
+  "file": "ghosts.png",
+  "image_url": "https://discord-decoration.art/decorations/ghosts.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween"
+  ],
+  "description": "Look at them just spinning and grinning all day..."
+ },
+ {
+  "name": "Minions",
+  "aliases": [],
+  "file": "minions.png",
+  "image_url": "https://discord-decoration.art/decorations/minions.png",
+  "categories": [
+   "Seasonal & Holidays",
+   "Anime & TV"
+  ],
+  "collections": [
+   "Halloween",
+   "Nitro"
+  ],
+  "description": "Name a more iconic duo."
+ },
+ {
+  "name": "Jack-o'-Lantern",
+  "aliases": [],
+  "file": "jack_o_lantern.png",
+  "image_url": "https://discord-decoration.art/decorations/jack_o_lantern.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Halloween"
+  ],
+  "description": "You can practically hear its eerie cackle..."
+ },
+ {
+  "name": "Pumpkin Spice",
+  "aliases": [],
+  "file": "pumpkin_spice.png",
+  "image_url": "https://discord-decoration.art/decorations/pumpkin_spice.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fall"
+  ],
+  "description": "Sweets and spice make everything nice."
+ },
+ {
+  "name": "Frog Hat",
+  "aliases": [],
+  "file": "frog_hat.png",
+  "image_url": "https://discord-decoration.art/decorations/frog_hat.png",
+  "categories": [
+   "Seasonal & Holidays"
+  ],
+  "collections": [
+   "Fall"
+  ],
+  "description": "Frogs and fashion go together and you can't tell me otherwise."
+ },
+ {
+  "name": "LEGO® Fortnite",
+  "aliases": [],
+  "file": "lego_fortnite.png",
+  "image_url": "https://discord-decoration.art/decorations/lego_fortnite.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the LEGO® Fortnite Quest for a limited time. Available to use until August 21, 2025."
+ },
+ {
+  "name": "Fortnite Galactic Battle",
+  "aliases": [],
+  "file": "fortnite_galactic_battle.png",
+  "image_url": "https://discord-decoration.art/decorations/fortnite_galactic_battle.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Fortnite Galactic Battle Quest for a limited time. Available to use until July 13, 2025."
+ },
+ {
+  "name": "Fortnite Boogie Bomb",
+  "aliases": [],
+  "file": "fortnite_boogie_bomb.png",
+  "image_url": "https://discord-decoration.art/decorations/fortnite_boogie_bomb.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Fortnite OG S2 Quest for a limited time. Available to use until April 5, 2025."
+ },
+ {
+  "name": "Street Fighter 6 Battle Field",
+  "aliases": [],
+  "file": "street_fighter_6_battle_field.png",
+  "image_url": "https://discord-decoration.art/decorations/street_fighter_6_battle_field.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Avatar Decoration for the Award winning Street Fighter 6. Exclusive to Street Fighter 6 Quest for a limited time. Available until to use November 29, 2024."
+ },
+ {
+  "name": "Fortnite Victory Crown",
+  "aliases": [],
+  "file": "victory_crown.png",
+  "image_url": "https://discord-decoration.art/decorations/victory_crown.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "A sparkly crown! Available to use until September 3, 2024."
+ },
+ {
+  "name": "White Mana",
+  "aliases": [],
+  "file": "white_mana.png",
+  "image_url": "https://discord-decoration.art/decorations/white_mana.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Magic: The Gathering"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Blue Mana",
+  "aliases": [],
+  "file": "blue_mana.png",
+  "image_url": "https://discord-decoration.art/decorations/blue_mana.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Magic: The Gathering"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Black Mana",
+  "aliases": [],
+  "file": "black_mana.png",
+  "image_url": "https://discord-decoration.art/decorations/black_mana.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Magic: The Gathering"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Red Mana",
+  "aliases": [],
+  "file": "red_mana.png",
+  "image_url": "https://discord-decoration.art/decorations/red_mana.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Magic: The Gathering"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Green Mana",
+  "aliases": [],
+  "file": "green_mana.png",
+  "image_url": "https://discord-decoration.art/decorations/green_mana.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Magic: The Gathering"
+  ],
+  "description": ""
+ },
+ {
+  "name": "GGEZ",
+  "aliases": [],
+  "file": "ggez.png",
+  "image_url": "https://discord-decoration.art/decorations/ggez.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "GGEZ"
+  ],
+  "description": "I wasn’t even trying."
+ },
+ {
+  "name": "Gold Laurel Wreath",
+  "aliases": [],
+  "file": "gold_laurel_wreath.png",
+  "image_url": "https://discord-decoration.art/decorations/gold_laurel_wreath.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Civilization VII"
+  ],
+  "description": "An emperor’s favorite accessory."
+ },
+ {
+  "name": "Golden Hex",
+  "aliases": [],
+  "file": "golden_hex.png",
+  "image_url": "https://discord-decoration.art/decorations/golden_hex.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Civilization VII"
+  ],
+  "description": "The building blocks of Civilization."
+ },
+ {
+  "name": "Terrain Tiles",
+  "aliases": [],
+  "file": "terrain_tiles.png",
+  "image_url": "https://discord-decoration.art/decorations/terrain_tiles.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Civilization VII"
+  ],
+  "description": "Land, sea, and everything in between."
+ },
+ {
+  "name": "Hex Tiles",
+  "aliases": [],
+  "file": "hex_tiles.png",
+  "image_url": "https://discord-decoration.art/decorations/hex_tiles.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Civilization VII"
+  ],
+  "description": "Make your mark on the map."
+ },
+ {
+  "name": "City Walls",
+  "aliases": [],
+  "file": "city_walls.png",
+  "image_url": "https://discord-decoration.art/decorations/city_walls.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Civilization VII"
+  ],
+  "description": "Barbarian-proof."
+ },
+ {
+  "name": "Next Turn Button",
+  "aliases": [],
+  "file": "next_turn_button.png",
+  "image_url": "https://discord-decoration.art/decorations/next_turn_button.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Civilization VII"
+  ],
+  "description": "Just one more turn."
+ },
+ {
+  "name": "The Anomaly",
+  "aliases": [],
+  "file": "the_anomaly.png",
+  "image_url": "https://discord-decoration.art/decorations/the_anomaly.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcane"
+  ],
+  "description": "Beautiful. Impossible. Inevitable."
+ },
+ {
+  "name": "The Mark",
+  "aliases": [],
+  "file": "the_mark.png",
+  "image_url": "https://discord-decoration.art/decorations/the_mark.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcane"
+  ],
+  "description": "An act of desperation. This changes nothing."
+ },
+ {
+  "name": "The Monster You Created",
+  "aliases": [],
+  "file": "the_monster_you_created.png",
+  "image_url": "https://discord-decoration.art/decorations/the_monster_you_created.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcane"
+  ],
+  "description": "“Powder fell down a well.”"
+ },
+ {
+  "name": "The Atlas Gauntlets",
+  "aliases": [],
+  "file": "the_atlas_gauntlets.png",
+  "image_url": "https://discord-decoration.art/decorations/the_atlas_gauntlets.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcane"
+  ],
+  "description": "Meant for mining, better for punching."
+ },
+ {
+  "name": "Flame Chompers",
+  "aliases": [],
+  "file": "flame_chompers.png",
+  "image_url": "https://discord-decoration.art/decorations/flame_chompers.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcane"
+  ],
+  "description": "Jinx names each and every one."
+ },
+ {
+  "name": "FISHBONES!",
+  "aliases": [],
+  "file": "fishbones.png",
+  "image_url": "https://discord-decoration.art/decorations/fishbones.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcane"
+  ],
+  "description": "And now: the grand finale."
+ },
+ {
+  "name": "The Hexcore",
+  "aliases": [],
+  "file": "the_hexcore.png",
+  "image_url": "https://discord-decoration.art/decorations/the_hexcore.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcane"
+  ],
+  "description": "It’s changing, adapting… but to what end?"
+ },
+ {
+  "name": "Powered by Shimmer",
+  "aliases": [],
+  "file": "powered_by_shimmer.png",
+  "image_url": "https://discord-decoration.art/decorations/powered_by_shimmer.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcane"
+  ],
+  "description": "Breathe it in. That’s power."
+ },
+ {
+  "name": "Violet Dice",
+  "aliases": [],
+  "file": "dice_violet.png",
+  "image_url": "https://discord-decoration.art/decorations/dice_violet.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dungeons & Dragons"
+  ],
+  "description": "Let’s roll!"
+ },
+ {
+  "name": "Azure Dice",
+  "aliases": [],
+  "file": "dice_azure.png",
+  "image_url": "https://discord-decoration.art/decorations/dice_azure.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dungeons & Dragons"
+  ],
+  "description": "Let’s roll!"
+ },
+ {
+  "name": "Green Gelatinous Cube",
+  "aliases": [],
+  "file": "gelatinous_cube_green.png",
+  "image_url": "https://discord-decoration.art/decorations/gelatinous_cube_green.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dungeons & Dragons"
+  ],
+  "description": "It’s not edible, but YOU are."
+ },
+ {
+  "name": "Blue Gelatinous Cube",
+  "aliases": [],
+  "file": "gelatinous_cube_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/gelatinous_cube_blue.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dungeons & Dragons"
+  ],
+  "description": "It’s not edible, but YOU are."
+ },
+ {
+  "name": "Owlbear Cub",
+  "aliases": [],
+  "file": "owlbear_cub.png",
+  "image_url": "https://discord-decoration.art/decorations/owlbear_cub.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dungeons & Dragons"
+  ],
+  "description": "Your very own feathery friend!"
+ },
+ {
+  "name": "Snowy Owlbear Cub",
+  "aliases": [],
+  "file": "owlbear_cub_snowy.png",
+  "image_url": "https://discord-decoration.art/decorations/owlbear_cub_snowy.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dungeons & Dragons"
+  ],
+  "description": "Your very own feathery friend!"
+ },
+ {
+  "name": "Baby Displacer Beast",
+  "aliases": [],
+  "file": "baby_displacer_beast.png",
+  "image_url": "https://discord-decoration.art/decorations/baby_displacer_beast.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dungeons & Dragons"
+  ],
+  "description": "Here, kitty, kitty…"
+ },
+ {
+  "name": "Ryu",
+  "aliases": [],
+  "file": "ryu.png",
+  "image_url": "https://discord-decoration.art/decorations/ryu.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Street Fighter"
+  ],
+  "description": "Ever training, Ryu seeks true strength… just keep spiders away from him."
+ },
+ {
+  "name": "Chun-Li",
+  "aliases": [],
+  "file": "chun_li.png",
+  "image_url": "https://discord-decoration.art/decorations/chun_li.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Street Fighter"
+  ],
+  "description": "A former high-kicking ICPO agent Chun-Li. Never skips leg day."
+ },
+ {
+  "name": "Ken",
+  "aliases": [],
+  "file": "ken.png",
+  "image_url": "https://discord-decoration.art/decorations/ken.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Street Fighter"
+  ],
+  "description": "Former US National Fighting Champ. Keeps his hair salon quality."
+ },
+ {
+  "name": "Akuma",
+  "aliases": [],
+  "file": "akuma.png",
+  "image_url": "https://discord-decoration.art/decorations/akuma.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Street Fighter"
+  ],
+  "description": "A demon of combat (the raging kind!) that has welcomed the Satsui no Hado into his being."
+ },
+ {
+  "name": "Cammy",
+  "aliases": [],
+  "file": "cammy.png",
+  "image_url": "https://discord-decoration.art/decorations/cammy.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Street Fighter"
+  ],
+  "description": "Member of British special forces unit Delta Red. Hates everything. Likes cats."
+ },
+ {
+  "name": "Guile",
+  "aliases": [],
+  "file": "guile.png",
+  "image_url": "https://discord-decoration.art/decorations/guile.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Street Fighter"
+  ],
+  "description": "A US Air Force pilot fantastic at comeback wins when listening to his own theme."
+ },
+ {
+  "name": "Juri",
+  "aliases": [],
+  "file": "juri.png",
+  "image_url": "https://discord-decoration.art/decorations/juri.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Street Fighter"
+  ],
+  "description": "A sadistic thrill seeker. Never misses a manicure."
+ },
+ {
+  "name": "M. Bison",
+  "aliases": [],
+  "file": "m_bison.png",
+  "image_url": "https://discord-decoration.art/decorations/m_bison.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Street Fighter"
+  ],
+  "description": "The leader of Shadaloo, who was believed to be dead. Very fond of power... the Psycho kind."
+ },
+ {
+  "name": "Kabuto",
+  "aliases": [],
+  "file": "kabuto.png",
+  "image_url": "https://discord-decoration.art/decorations/kabuto.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dojo"
+  ],
+  "description": "Donned only by true warriors."
+ },
+ {
+  "name": "Oni Mask",
+  "aliases": [],
+  "file": "oni_mask.png",
+  "image_url": "https://discord-decoration.art/decorations/oni_mask.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dojo"
+  ],
+  "description": "Unleash your inner demon."
+ },
+ {
+  "name": "Straw Hat",
+  "aliases": [],
+  "file": "straw_hat.png",
+  "image_url": "https://discord-decoration.art/decorations/straw_hat.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dojo"
+  ],
+  "description": "A must-have for the traveling wanderer."
+ },
+ {
+  "name": "Sakura Ink",
+  "aliases": [],
+  "file": "sakura_ink.png",
+  "image_url": "https://discord-decoration.art/decorations/sakura_ink.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dojo"
+  ],
+  "description": "Fleeting beauty... forever etched in ink."
+ },
+ {
+  "name": "Sakura Warrior",
+  "aliases": [],
+  "file": "sakura_warrior.png",
+  "image_url": "https://discord-decoration.art/decorations/sakura_warrior.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dojo"
+  ],
+  "description": "Blossom and blade, united in purpose."
+ },
+ {
+  "name": "Shuriken's Mask",
+  "aliases": [],
+  "file": "shurikens_mask.png",
+  "image_url": "https://discord-decoration.art/decorations/shurikens_mask.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Dojo"
+  ],
+  "description": "Aim with purpose."
+ },
+ {
+  "name": "VALORANT Champions 2024",
+  "aliases": [],
+  "file": "valorant_champions_2024.png",
+  "image_url": "https://discord-decoration.art/decorations/valorant_champions_2024.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS"
+  ],
+  "description": "All paths end here."
+ },
+ {
+  "name": "Yoru Dimensional Drift",
+  "aliases": [],
+  "file": "yoru_dimensional_drift.png",
+  "image_url": "https://discord-decoration.art/decorations/yoru_dimensional_drift.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS"
+  ],
+  "description": "Looking for me?"
+ },
+ {
+  "name": "Viper Poison Cloud",
+  "aliases": [],
+  "file": "viper_poison_cloud.png",
+  "image_url": "https://discord-decoration.art/decorations/viper_poison_cloud.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS"
+  ],
+  "description": "No one can hold their breath forever."
+ },
+ {
+  "name": "Cypher Neural Theft",
+  "aliases": [],
+  "file": "cypher_neural_theft.png",
+  "image_url": "https://discord-decoration.art/decorations/cypher_neural_theft.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS"
+  ],
+  "description": "Nothing stays hidden from me."
+ },
+ {
+  "name": "Omen's Cowl",
+  "aliases": [],
+  "file": "omens_cowl.png",
+  "image_url": "https://discord-decoration.art/decorations/omens_cowl.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS",
+   "VALORANT"
+  ],
+  "description": "Embrace the shadows."
+ },
+ {
+  "name": "Reyna's Leer",
+  "aliases": [],
+  "file": "reynas_leer.png",
+  "image_url": "https://discord-decoration.art/decorations/reynas_leer.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS",
+   "VALORANT"
+  ],
+  "description": "The last thing they'll ever see. Lucky them."
+ },
+ {
+  "name": "FRAG OUT",
+  "aliases": [],
+  "file": "frag_out.png",
+  "image_url": "https://discord-decoration.art/decorations/frag_out.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS",
+   "VALORANT"
+  ],
+  "description": "Five down. None to go."
+ },
+ {
+  "name": "Blade Storm",
+  "aliases": [],
+  "file": "blade_storm.png",
+  "image_url": "https://discord-decoration.art/decorations/blade_storm.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "VALORANT CHAMPIONS",
+   "VALORANT"
+  ],
+  "description": "Watch this."
+ },
+ {
+  "name": "Chillet",
+  "aliases": [],
+  "file": "chillet.png",
+  "image_url": "https://discord-decoration.art/decorations/chillet.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Palworld"
+  ],
+  "description": "Who doesn't love to cuddle?"
+ },
+ {
+  "name": "Pal Sphere",
+  "aliases": [],
+  "file": "pal_sphere.png",
+  "image_url": "https://discord-decoration.art/decorations/pal_sphere.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Palworld"
+  ],
+  "description": "Fingers crossed!"
+ },
+ {
+  "name": "Cattiva",
+  "aliases": [],
+  "file": "cattiva.png",
+  "image_url": "https://discord-decoration.art/decorations/cattiva.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Palworld"
+  ],
+  "description": "Cute... from a distance."
+ },
+ {
+  "name": "Lamball",
+  "aliases": [],
+  "file": "lamball.png",
+  "image_url": "https://discord-decoration.art/decorations/lamball.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Palworld"
+  ],
+  "description": "Cozy, fluffy, and clumsy!"
+ },
+ {
+  "name": "Depresso",
+  "aliases": [],
+  "file": "depresso.png",
+  "image_url": "https://discord-decoration.art/decorations/depresso.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Palworld"
+  ],
+  "description": "As enthusiastic as ever."
+ },
+ {
+  "name": "Selyne",
+  "aliases": [],
+  "file": "selyne.png",
+  "image_url": "https://discord-decoration.art/decorations/selyne.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Palworld"
+  ],
+  "description": "A mysterious moonlight encounter."
+ },
+ {
+  "name": "Joystick",
+  "aliases": [],
+  "file": "joystick.png",
+  "image_url": "https://discord-decoration.art/decorations/joystick.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcade"
+  ],
+  "description": "Pressing buttons harder definitely increases your chances of winning."
+ },
+ {
+  "name": "Clyde Invaders",
+  "aliases": [],
+  "file": "clyde_invaders.png",
+  "image_url": "https://discord-decoration.art/decorations/clyde_invaders.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcade"
+  ],
+  "description": "Rogue invaders have taken control of the galaxy. It's up to you to save the day."
+ },
+ {
+  "name": "Pipedream",
+  "aliases": [],
+  "file": "pipedream.png",
+  "image_url": "https://discord-decoration.art/decorations/pipedream.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcade"
+  ],
+  "description": "If you stare at this for 5,461 seconds without blinking, you win."
+ },
+ {
+  "name": "Hot Shot",
+  "aliases": [],
+  "file": "hot_shot.png",
+  "image_url": "https://discord-decoration.art/decorations/hot_shot.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcade"
+  ],
+  "description": "Baller status: Pro."
+ },
+ {
+  "name": "Mallow Jump",
+  "aliases": [],
+  "file": "mallow_jump.png",
+  "image_url": "https://discord-decoration.art/decorations/mallow_jump.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcade"
+  ],
+  "description": "Hop till you drop!"
+ },
+ {
+  "name": "Slither 'n Snack",
+  "aliases": [],
+  "file": "slither_n_snack.png",
+  "image_url": "https://discord-decoration.art/decorations/slither_n_snack.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Arcade"
+  ],
+  "description": "Gobble and grow to become the biggest snake in the garden."
+ },
+ {
+  "name": "Pirate Captain",
+  "aliases": [],
+  "file": "pirate_captain.png",
+  "image_url": "https://discord-decoration.art/decorations/pirate_captain.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Pirates"
+  ],
+  "description": "Arrr... yer bounty comes due."
+ },
+ {
+  "name": "Scallywag",
+  "aliases": [],
+  "file": "scallywag.png",
+  "image_url": "https://discord-decoration.art/decorations/scallywag.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Pirates"
+  ],
+  "description": "Nay even a pirate can steal me good looks."
+ },
+ {
+  "name": "Good Ol' Pepper",
+  "aliases": [],
+  "file": "good_ol_pepper.png",
+  "image_url": "https://discord-decoration.art/decorations/good_ol_pepper.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Pirates"
+  ],
+  "description": "An old salt's trusty matey at sea."
+ },
+ {
+  "name": "Crossbones",
+  "aliases": [],
+  "file": "crossbones.png",
+  "image_url": "https://discord-decoration.art/decorations/crossbones.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Pirates"
+  ],
+  "description": "Cross me not, else a pile o' bones be yer fate."
+ },
+ {
+  "name": "Cannon Fire",
+  "aliases": [],
+  "file": "cannon_fire.png",
+  "image_url": "https://discord-decoration.art/decorations/cannon_fire.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Pirates"
+  ],
+  "description": "Sink yer foes in iron and let 'em be claimed by the sea..."
+ },
+ {
+  "name": "Helmsman",
+  "aliases": [],
+  "file": "helmsman.png",
+  "image_url": "https://discord-decoration.art/decorations/helmsman.png",
+  "categories": [
+   "Gaming"
+  ],
+  "collections": [
+   "Pirates"
+  ],
+  "description": "Heading, cap'n?"
+ },
+ {
+  "name": "Marvel Snap Venom",
+  "aliases": [],
+  "file": "marvel_snap_venom.png",
+  "image_url": "https://discord-decoration.art/decorations/marvel_snap_venom.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Symbiote Spider-Man Quest for a limited time. Available to use until August 8, 2025."
+ },
+ {
+  "name": "Dragon Balls",
+  "aliases": [],
+  "file": "dragon_balls.png",
+  "image_url": "https://discord-decoration.art/decorations/dragon_balls.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Port of Soul",
+  "aliases": [],
+  "file": "port_of_soul.png",
+  "image_url": "https://discord-decoration.art/decorations/port_of_soul.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "aespa"
+  ],
+  "description": "Your bridge between FLAT and REAL WORLD."
+ },
+ {
+  "name": "Mirage",
+  "aliases": [],
+  "file": "mirage.png",
+  "image_url": "https://discord-decoration.art/decorations/mirage.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Insomnia"
+  ],
+  "description": "Believe it, and you will see it."
+ },
+ {
+  "name": "Mirage (Void)",
+  "aliases": [],
+  "file": "mirage_void.png",
+  "image_url": "https://discord-decoration.art/decorations/mirage_void.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Insomnia"
+  ],
+  "description": "Believe it, and you will see it."
+ },
+ {
+  "name": "Mirage (Twilight)",
+  "aliases": [],
+  "file": "mirage_twilight.png",
+  "image_url": "https://discord-decoration.art/decorations/mirage_twilight.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Insomnia"
+  ],
+  "description": "Believe it, and you will see it."
+ },
+ {
+  "name": "Mirage (Nightshade)",
+  "aliases": [],
+  "file": "mirage_nightshade.png",
+  "image_url": "https://discord-decoration.art/decorations/mirage_nightshade.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Insomnia"
+  ],
+  "description": "Believe it, and you will see it."
+ },
+ {
+  "name": "Cat Onesie",
+  "aliases": [],
+  "file": "cat_onesie.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_onesie.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "I'm just here for naps and snacks."
+ },
+ {
+  "name": "Cat Onesie (Pink)",
+  "aliases": [],
+  "file": "cat_onesie_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_onesie_pink.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "I'm just here for naps and snacks."
+ },
+ {
+  "name": "Cat Onesie (Black)",
+  "aliases": [],
+  "file": "cat_onesie_black.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_onesie_black.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "I'm just here for naps and snacks."
+ },
+ {
+  "name": "Shy",
+  "aliases": [],
+  "file": "shy.png",
+  "image_url": "https://discord-decoration.art/decorations/shy.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Notice me! Just not too much..."
+ },
+ {
+  "name": "Rumbling",
+  "aliases": [],
+  "file": "rumbling.png",
+  "image_url": "https://discord-decoration.art/decorations/rumbling.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "You seem to be trembling in my presence."
+ },
+ {
+  "name": "Magical Girl",
+  "aliases": [],
+  "file": "magical_girl.png",
+  "image_url": "https://discord-decoration.art/decorations/magical_girl.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Need to look immaculate when you're saving the world."
+ },
+ {
+  "name": "Sakura Scholar",
+  "aliases": [],
+  "file": "sakura_scholar.png",
+  "image_url": "https://discord-decoration.art/decorations/sakura_scholar.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "When you ace the exams, and the look."
+ },
+ {
+  "name": "Sushi Roll",
+  "aliases": [],
+  "file": "sushi_roll.png",
+  "image_url": "https://discord-decoration.art/decorations/sushi_roll.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "When life gives you sushi, add sashimi."
+ },
+ {
+  "name": "Ramen Bowl",
+  "aliases": [],
+  "file": "ramen_bowl.png",
+  "image_url": "https://discord-decoration.art/decorations/ramen_bowl.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "A bowl is most useful when it's filled with ramen."
+ },
+ {
+  "name": "Ramen Bowl (Toppings)",
+  "aliases": [],
+  "file": "ramen_bowl_toppings.png",
+  "image_url": "https://discord-decoration.art/decorations/ramen_bowl_toppings.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "A bowl is most useful when it's filled with ramen."
+ },
+ {
+  "name": "Angry",
+  "aliases": [],
+  "file": "angry.png",
+  "image_url": "https://discord-decoration.art/decorations/angry.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2",
+   "Anime"
+  ],
+  "description": "How dare you."
+ },
+ {
+  "name": "Angry (Pink)",
+  "aliases": [],
+  "file": "angry_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/angry_pink.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "How dare you."
+ },
+ {
+  "name": "Angry (Yellow)",
+  "aliases": [],
+  "file": "angry_yellow.png",
+  "image_url": "https://discord-decoration.art/decorations/angry_yellow.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "How dare you."
+ },
+ {
+  "name": "Radiating Energy",
+  "aliases": [],
+  "file": "radiating_energy.png",
+  "image_url": "https://discord-decoration.art/decorations/radiating_energy.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2",
+   "Anime"
+  ],
+  "description": "Over EIGHT-THOUSAND-NINE-HUNDRED-NINETY-NINE!"
+ },
+ {
+  "name": "Radiating Energy (Yellow)",
+  "aliases": [],
+  "file": "radiating_energy_yellow.png",
+  "image_url": "https://discord-decoration.art/decorations/radiating_energy_yellow.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Over EIGHT-THOUSAND-NINE-HUNDRED-NINETY-NINE!"
+ },
+ {
+  "name": "Radiating Energy (Blue)",
+  "aliases": [],
+  "file": "radiating_energy_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/radiating_energy_blue.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Over EIGHT-THOUSAND-NINE-HUNDRED-NINETY-NINE!"
+ },
+ {
+  "name": "Sweat Drops",
+  "aliases": [],
+  "file": "sweat_drops.png",
+  "image_url": "https://discord-decoration.art/decorations/sweat_drops.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2",
+   "Anime"
+  ],
+  "description": "*laughs nervously*"
+ },
+ {
+  "name": "Sweat Drops (Cyan)",
+  "aliases": [],
+  "file": "sweat_drops_cyan.png",
+  "image_url": "https://discord-decoration.art/decorations/sweat_drops_cyan.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "*laughs nervously*"
+ },
+ {
+  "name": "Sweat Drops (Pink)",
+  "aliases": [],
+  "file": "sweat_drops_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/sweat_drops_pink.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "*laughs nervously*"
+ },
+ {
+  "name": "Soul Leaving Body",
+  "aliases": [],
+  "file": "soul_leaving_body.png",
+  "image_url": "https://discord-decoration.art/decorations/soul_leaving_body.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2",
+   "Anime"
+  ],
+  "description": "Can I just disappear right now?"
+ },
+ {
+  "name": "Soul Leaving Body (Blue)",
+  "aliases": [],
+  "file": "soul_leaving_body_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/soul_leaving_body_blue.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Can I just disappear right now?"
+ },
+ {
+  "name": "Starry Eyed",
+  "aliases": [],
+  "file": "starry_eyed.png",
+  "image_url": "https://discord-decoration.art/decorations/starry_eyed.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2",
+   "Anime"
+  ],
+  "description": "Feelin' sparkly."
+ },
+ {
+  "name": "Starry Eyed (Green)",
+  "aliases": [],
+  "file": "starry_eyed_green.png",
+  "image_url": "https://discord-decoration.art/decorations/starry_eyed_green.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Feelin' sparkly."
+ },
+ {
+  "name": "Starry Eyed (Pink)",
+  "aliases": [],
+  "file": "starry_eyed_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/starry_eyed_pink.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Feelin' sparkly."
+ },
+ {
+  "name": "Shocked",
+  "aliases": [],
+  "file": "shocked.png",
+  "image_url": "https://discord-decoration.art/decorations/shocked.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2",
+   "Anime"
+  ],
+  "description": "Nani?!!"
+ },
+ {
+  "name": "Shocked (Green)",
+  "aliases": [],
+  "file": "shocked_green.png",
+  "image_url": "https://discord-decoration.art/decorations/shocked_green.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Nani?!!"
+ },
+ {
+  "name": "Shocked (Yellow)",
+  "aliases": [],
+  "file": "shocked_yellow.png",
+  "image_url": "https://discord-decoration.art/decorations/shocked_yellow.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Nani?!!"
+ },
+ {
+  "name": "Ki Energy",
+  "aliases": [],
+  "file": "ki_energy.png",
+  "image_url": "https://discord-decoration.art/decorations/ki_energy.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2"
+  ],
+  "description": "Focus from within."
+ },
+ {
+  "name": "Ki Energy (Green)",
+  "aliases": [],
+  "file": "ki_energy_green.png",
+  "image_url": "https://discord-decoration.art/decorations/ki_energy_green.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Focus from within."
+ },
+ {
+  "name": "Ki Energy (Cyan)",
+  "aliases": [],
+  "file": "ki_energy_cyan.png",
+  "image_url": "https://discord-decoration.art/decorations/ki_energy_cyan.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Focus from within."
+ },
+ {
+  "name": "Ki Energy (Blue)",
+  "aliases": [],
+  "file": "ki_energy_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/ki_energy_blue.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Focus from within."
+ },
+ {
+  "name": "Ki Energy (Fuchsia)",
+  "aliases": [],
+  "file": "ki_energy_fuchsia.png",
+  "image_url": "https://discord-decoration.art/decorations/ki_energy_fuchsia.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Focus from within."
+ },
+ {
+  "name": "Dismay",
+  "aliases": [],
+  "file": "dismay.png",
+  "image_url": "https://discord-decoration.art/decorations/dismay.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2"
+  ],
+  "description": "Not like this..."
+ },
+ {
+  "name": "Dismay (Purple)",
+  "aliases": [],
+  "file": "dismay_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/dismay_purple.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Not like this..."
+ },
+ {
+  "name": "Dismay (Pink)",
+  "aliases": [],
+  "file": "dismay_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/dismay_pink.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Not like this..."
+ },
+ {
+  "name": "Dismay (Yellow)",
+  "aliases": [],
+  "file": "dismay_yellow.png",
+  "image_url": "https://discord-decoration.art/decorations/dismay_yellow.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Not like this..."
+ },
+ {
+  "name": "Dismay (Green)",
+  "aliases": [],
+  "file": "dismay_green.png",
+  "image_url": "https://discord-decoration.art/decorations/dismay_green.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "Not like this..."
+ },
+ {
+  "name": "In Tears",
+  "aliases": [],
+  "file": "in_tears.png",
+  "image_url": "https://discord-decoration.art/decorations/in_tears.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2"
+  ],
+  "description": "*sobbing*"
+ },
+ {
+  "name": "In Tears (Purple)",
+  "aliases": [],
+  "file": "in_tears_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/in_tears_purple.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "*sobbing*"
+ },
+ {
+  "name": "In Tears (Pink)",
+  "aliases": [],
+  "file": "in_tears_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/in_tears_pink.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "*sobbing*"
+ },
+ {
+  "name": "In Tears (Yellow)",
+  "aliases": [],
+  "file": "in_tears_yellow.png",
+  "image_url": "https://discord-decoration.art/decorations/in_tears_yellow.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "*sobbing*"
+ },
+ {
+  "name": "In Tears (Green)",
+  "aliases": [],
+  "file": "in_tears_green.png",
+  "image_url": "https://discord-decoration.art/decorations/in_tears_green.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "*sobbing*"
+ },
+ {
+  "name": "Cat Ears",
+  "aliases": [],
+  "file": "cat_ears.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_ears.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2"
+  ],
+  "description": "≽ ^ • ⩊ • ^ ≼"
+ },
+ {
+  "name": "Cat Ears (Yellow)",
+  "aliases": [],
+  "file": "cat_ears_yellow.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_ears_yellow.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "≽ ^ • ⩊ • ^ ≼"
+ },
+ {
+  "name": "Cat Ears (Green)",
+  "aliases": [],
+  "file": "cat_ears_green.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_ears_green.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "≽ ^ • ⩊ • ^ ≼"
+ },
+ {
+  "name": "Cat Ears (Blue)",
+  "aliases": [],
+  "file": "cat_ears_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_ears_blue.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "≽ ^ • ⩊ • ^ ≼"
+ },
+ {
+  "name": "Cat Ears (Purple)",
+  "aliases": [],
+  "file": "cat_ears_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_ears_purple.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "≽ ^ • ⩊ • ^ ≼"
+ },
+ {
+  "name": "Rage",
+  "aliases": [],
+  "file": "rage.png",
+  "image_url": "https://discord-decoration.art/decorations/rage.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3",
+   "Anime 2"
+  ],
+  "description": "THAT'S IT."
+ },
+ {
+  "name": "Rage (Green)",
+  "aliases": [],
+  "file": "rage_green.png",
+  "image_url": "https://discord-decoration.art/decorations/rage_green.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "THAT'S IT."
+ },
+ {
+  "name": "Rage (Blue)",
+  "aliases": [],
+  "file": "rage_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/rage_blue.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "THAT'S IT."
+ },
+ {
+  "name": "Rage (Purple)",
+  "aliases": [],
+  "file": "rage_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/rage_purple.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "THAT'S IT."
+ },
+ {
+  "name": "Rage (Red)",
+  "aliases": [],
+  "file": "rage_red.png",
+  "image_url": "https://discord-decoration.art/decorations/rage_red.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Anime 3"
+  ],
+  "description": "THAT'S IT."
+ },
+ {
+  "name": "Lofi Girl Outfit",
+  "aliases": [],
+  "file": "lofi_girl_outfit.png",
+  "image_url": "https://discord-decoration.art/decorations/lofi_girl_outfit.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Lofi Girl"
+  ],
+  "description": "Embrace your inner Lofi Girl."
+ },
+ {
+  "name": "Sleepy ChilledCow",
+  "aliases": [],
+  "file": "sleepy_chilledcow.png",
+  "image_url": "https://discord-decoration.art/decorations/sleepy_chilledcow.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Lofi Girl"
+  ],
+  "description": "Zzzzzzzzzzzzzzzzzzzz"
+ },
+ {
+  "name": "SpongeBob",
+  "aliases": [],
+  "file": "spongebob.png",
+  "image_url": "https://discord-decoration.art/decorations/spongebob.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Spongebob"
+  ],
+  "description": "Order up!"
+ },
+ {
+  "name": "Imagination",
+  "aliases": [],
+  "file": "imagination.png",
+  "image_url": "https://discord-decoration.art/decorations/imagination.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Spongebob"
+  ],
+  "description": "With imagination, I can be anything I want."
+ },
+ {
+  "name": "Patrick Star",
+  "aliases": [],
+  "file": "patrick_star.png",
+  "image_url": "https://discord-decoration.art/decorations/patrick_star.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Spongebob"
+  ],
+  "description": "He, she, me wumbo."
+ },
+ {
+  "name": "Flower Clouds",
+  "aliases": [],
+  "file": "flower_clouds.png",
+  "image_url": "https://discord-decoration.art/decorations/flower_clouds.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Spongebob"
+  ],
+  "description": "Immerse yourself in Bikini Bottom."
+ },
+ {
+  "name": "Gary the Snail",
+  "aliases": [],
+  "file": "gary_the_snail.png",
+  "image_url": "https://discord-decoration.art/decorations/gary_the_snail.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Spongebob"
+  ],
+  "description": "Meow."
+ },
+ {
+  "name": "Sandy Cheeks",
+  "aliases": [],
+  "file": "sandy_cheeks.png",
+  "image_url": "https://discord-decoration.art/decorations/sandy_cheeks.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Spongebob"
+  ],
+  "description": "Underwater breathing apparatus."
+ },
+ {
+  "name": "MuscleBob",
+  "aliases": [],
+  "file": "musclebob.png",
+  "image_url": "https://discord-decoration.art/decorations/musclebob.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Spongebob"
+  ],
+  "description": "How tough are ya?"
+ },
+ {
+  "name": "Arcane Sigil",
+  "aliases": [],
+  "file": "arcane_sigil.png",
+  "image_url": "https://discord-decoration.art/decorations/arcane_sigil.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Dark Fantasy"
+  ],
+  "description": "Those who stare will fall under your spell."
+ },
+ {
+  "name": "Beamchop",
+  "aliases": [],
+  "file": "beamchop.png",
+  "image_url": "https://discord-decoration.art/decorations/beamchop.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Monsters"
+  ],
+  "description": "Awh it's so cu- AHHH"
+ },
+ {
+  "name": "Stinkums",
+  "aliases": [],
+  "file": "stinkums.png",
+  "image_url": "https://discord-decoration.art/decorations/stinkums.png",
+  "categories": [
+   "Anime & TV",
+   "Characters & Mascots"
+  ],
+  "collections": [
+   "Monsters",
+   "The Vault"
+  ],
+  "description": "Questionably dealt. Definitely smelt."
+ },
+ {
+  "name": "Chuck",
+  "aliases": [],
+  "file": "chuck.png",
+  "image_url": "https://discord-decoration.art/decorations/chuck.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Monsters"
+  ],
+  "description": "Wanna see what I had for lunch earlier?"
+ },
+ {
+  "name": "Winkle",
+  "aliases": [],
+  "file": "winkle.png",
+  "image_url": "https://discord-decoration.art/decorations/winkle.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Monsters"
+  ],
+  "description": "Eye love you."
+ },
+ {
+  "name": "Chewbert",
+  "aliases": [],
+  "file": "chewbert.png",
+  "image_url": "https://discord-decoration.art/decorations/chewbert.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Monsters"
+  ],
+  "description": "Me chew gum, make bubbles, big fun."
+ },
+ {
+  "name": "Doodlezard",
+  "aliases": [],
+  "file": "doodlezard.png",
+  "image_url": "https://discord-decoration.art/decorations/doodlezard.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Monsters"
+  ],
+  "description": "You might want to wash up after."
+ },
+ {
+  "name": "Glop",
+  "aliases": [],
+  "file": "glop.png",
+  "image_url": "https://discord-decoration.art/decorations/glop.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Monsters"
+  ],
+  "description": "Is there something in my teeth?"
+ },
+ {
+  "name": "Gawblehop",
+  "aliases": [],
+  "file": "gawblehop.png",
+  "image_url": "https://discord-decoration.art/decorations/gawblehop.png",
+  "categories": [
+   "Anime & TV"
+  ],
+  "collections": [
+   "Monsters"
+  ],
+  "description": "Talk about being tongue-tied."
+ },
+ {
+  "name": "Mushcaps",
+  "aliases": [],
+  "file": "mushcaps.png",
+  "image_url": "https://discord-decoration.art/decorations/mushcaps.png",
+  "categories": [
+   "Characters & Mascots"
+  ],
+  "collections": [
+   "Secret Garden"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mooncaps (Pink)",
+  "aliases": [],
+  "file": "mooncaps_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/mooncaps_pink.png",
+  "categories": [
+   "Characters & Mascots"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "It is said they guide lost travelers through moonlit paths."
+ },
+ {
+  "name": "Mooncaps (Blue)",
+  "aliases": [],
+  "file": "mooncaps_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/mooncaps_blue.png",
+  "categories": [
+   "Characters & Mascots"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "It is said they guide lost travelers through moonlit paths."
+ },
+ {
+  "name": "Goblin Stinkums",
+  "aliases": [],
+  "file": "goblin_stinkums.png",
+  "image_url": "https://discord-decoration.art/decorations/goblin_stinkums.png",
+  "categories": [
+   "Characters & Mascots"
+  ],
+  "collections": [
+   "The Vault"
+  ],
+  "description": "Green goblin mode unlocks many abilities... some consider to be unnaturally stinky."
+ },
+ {
+  "name": "Angela Avatar",
+  "aliases": [],
+  "file": "angela_avatar.png",
+  "image_url": "https://discord-decoration.art/decorations/angela_avatar.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Marvel Rivals S4.0 Quest for a limited time. Available to use until November 19, 2025."
+ },
+ {
+  "name": "Phoenix",
+  "aliases": [],
+  "file": "jean_grey_phoenix.png",
+  "image_url": "https://discord-decoration.art/decorations/jean_grey_phoenix.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Jean Grey with her fiery Phoenix form. Available to use until September 16, 2025."
+ },
+ {
+  "name": "How to Train Your Dragon",
+  "aliases": [],
+  "file": "how_to_train_your_dragon.png",
+  "image_url": "https://discord-decoration.art/decorations/how_to_train_your_dragon.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the How to Train Your Dragon Quest for a limited time. Available to use until August 12, 2025."
+ },
+ {
+  "name": "Pondering Portal",
+  "aliases": [],
+  "file": "pondering_portal.png",
+  "image_url": "https://discord-decoration.art/decorations/pondering_portal.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Orbs Exclusive"
+  ],
+  "description": "Dazzling thoughts create neon sparks."
+ },
+ {
+  "name": "Magic Mists",
+  "aliases": [],
+  "file": "magic_mists.png",
+  "image_url": "https://discord-decoration.art/decorations/magic_mists.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Orbs Exclusive"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Spirit Blossom Zed",
+  "aliases": [],
+  "file": "spirit_blossom_zed.png",
+  "image_url": "https://discord-decoration.art/decorations/spirit_blossom_zed.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Spirit Blossom Beyond"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Spirit Blossom Morgana",
+  "aliases": [],
+  "file": "spirit_blossom_morgana.png",
+  "image_url": "https://discord-decoration.art/decorations/spirit_blossom_morgana.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Spirit Blossom Beyond"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Spirit Blossom Karma",
+  "aliases": [],
+  "file": "spirit_blossom_karma.png",
+  "image_url": "https://discord-decoration.art/decorations/spirit_blossom_karma.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Spirit Blossom Beyond"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Bonsai",
+  "aliases": [],
+  "file": "bonsai.png",
+  "image_url": "https://discord-decoration.art/decorations/bonsai.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Zen Protocol"
+  ],
+  "description": "Ancient branches shaped by the hands of a master."
+ },
+ {
+  "name": "Sakura City",
+  "aliases": [],
+  "file": "sakura_city.png",
+  "image_url": "https://discord-decoration.art/decorations/sakura_city.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Zen Protocol"
+  ],
+  "description": "Where the future wears the past."
+ },
+ {
+  "name": "Hologram Dragon",
+  "aliases": [],
+  "file": "hologram_dragon.png",
+  "image_url": "https://discord-decoration.art/decorations/hologram_dragon.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Zen Protocol"
+  ],
+  "description": "Your companion for future battles."
+ },
+ {
+  "name": "Cyber Katana",
+  "aliases": [],
+  "file": "cyber_katana.png",
+  "image_url": "https://discord-decoration.art/decorations/cyber_katana.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Zen Protocol"
+  ],
+  "description": "As beautiful as it is deadly."
+ },
+ {
+  "name": "O.N.I",
+  "aliases": [],
+  "file": "o_n_i.png",
+  "image_url": "https://discord-decoration.art/decorations/o_n_i.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Zen Protocol"
+  ],
+  "description": "Disappear into ghost-mode with this Overclocked Neutral Interface."
+ },
+ {
+  "name": "Jingasa",
+  "aliases": [],
+  "file": "jingasa.png",
+  "image_url": "https://discord-decoration.art/decorations/jingasa.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Zen Protocol"
+  ],
+  "description": "The hat of choice for any modern samurai."
+ },
+ {
+  "name": "Magic Portal (Purple)",
+  "aliases": [],
+  "file": "magic_portal_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/magic_portal_purple.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "Enter at your own risk."
+ },
+ {
+  "name": "Magic Portal (Blue)",
+  "aliases": [],
+  "file": "magic_portal_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/magic_portal_blue.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "Enter at your own risk."
+ },
+ {
+  "name": "Fairy Sprites (Pink)",
+  "aliases": [],
+  "file": "fairy_sprites_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/fairy_sprites_pink.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "Here to guide you on your path."
+ },
+ {
+  "name": "Fairy Sprites (Blue)",
+  "aliases": [],
+  "file": "fairy_sprites_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/fairy_sprites_blue.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "Here to guide you on your path."
+ },
+ {
+  "name": "Fairy Sprites",
+  "aliases": [],
+  "file": "fairy_sprites.png",
+  "image_url": "https://discord-decoration.art/decorations/fairy_sprites.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2",
+   "Fantasy"
+  ],
+  "description": "Here to guide you on your path."
+ },
+ {
+  "name": "Crystal Ball (Purple)",
+  "aliases": [],
+  "file": "crystal_ball_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/crystal_ball_purple.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "Peer into a universe of secrets."
+ },
+ {
+  "name": "Crystal Ball (Blue)",
+  "aliases": [],
+  "file": "crystal_ball_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/crystal_ball_blue.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "Peer into a universe of secrets."
+ },
+ {
+  "name": "Wizard Hat (Purple)",
+  "aliases": [],
+  "file": "wizard_hat_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/wizard_hat_purple.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "Bestows the wearer with much wisdom and charm."
+ },
+ {
+  "name": "Wizard Hat (Blue)",
+  "aliases": [],
+  "file": "wizard_hat_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/wizard_hat_blue.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "Bestows the wearer with much wisdom and charm."
+ },
+ {
+  "name": "Magical Wand (Purple)",
+  "aliases": [],
+  "file": "magical_wand_purple.png",
+  "image_url": "https://discord-decoration.art/decorations/magical_wand_purple.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "In anything you do, add a touch of magic."
+ },
+ {
+  "name": "Magical Wand (Green)",
+  "aliases": [],
+  "file": "magical_wand_green.png",
+  "image_url": "https://discord-decoration.art/decorations/magical_wand_green.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "In anything you do, add a touch of magic."
+ },
+ {
+  "name": "Cottage Home",
+  "aliases": [],
+  "file": "cottage_home.png",
+  "image_url": "https://discord-decoration.art/decorations/cottage_home.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2"
+  ],
+  "description": "It's cold outside traveler... come, warm yourself by the hearth."
+ },
+ {
+  "name": "Flaming Sword",
+  "aliases": [],
+  "file": "flaming_sword.png",
+  "image_url": "https://discord-decoration.art/decorations/flaming_sword.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2",
+   "Fantasy"
+  ],
+  "description": "Slaying the look and the monsters."
+ },
+ {
+  "name": "Magical Potion",
+  "aliases": [],
+  "file": "magical_potion.png",
+  "image_url": "https://discord-decoration.art/decorations/magical_potion.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2",
+   "Fantasy"
+  ],
+  "description": "Drink at your own risk."
+ },
+ {
+  "name": "Wizard's Staff",
+  "aliases": [],
+  "file": "wizards_staff.png",
+  "image_url": "https://discord-decoration.art/decorations/wizards_staff.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2",
+   "Fantasy"
+  ],
+  "description": "How much power does it hold?"
+ },
+ {
+  "name": "Glowing Runes",
+  "aliases": [],
+  "file": "glowing_runes.png",
+  "image_url": "https://discord-decoration.art/decorations/glowing_runes.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2",
+   "Fantasy"
+  ],
+  "description": "I wonder what these symbols mean."
+ },
+ {
+  "name": "Defensive Shield",
+  "aliases": [],
+  "file": "defensive_shield.png",
+  "image_url": "https://discord-decoration.art/decorations/defensive_shield.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2",
+   "Fantasy"
+  ],
+  "description": "Use against pointy things."
+ },
+ {
+  "name": "Skull Medallion",
+  "aliases": [],
+  "file": "skull_medallion.png",
+  "image_url": "https://discord-decoration.art/decorations/skull_medallion.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2",
+   "Fantasy"
+  ],
+  "description": "Earned through unknown means."
+ },
+ {
+  "name": "Treasure and Key",
+  "aliases": [],
+  "file": "treasure_and_key.png",
+  "image_url": "https://discord-decoration.art/decorations/treasure_and_key.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Fantasy 2",
+   "Fantasy"
+  ],
+  "description": "What glorious treasures lie within?"
+ },
+ {
+  "name": "Kitsune",
+  "aliases": [],
+  "file": "kitsune.png",
+  "image_url": "https://discord-decoration.art/decorations/kitsune.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Mythical Creatures"
+  ],
+  "description": "Legends say playful chaos is their specialty."
+ },
+ {
+  "name": "Unicorn",
+  "aliases": [],
+  "file": "unicorn.png",
+  "image_url": "https://discord-decoration.art/decorations/unicorn.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Mythical Creatures"
+  ],
+  "description": "Unicorns love two things: magic and your vibe."
+ },
+ {
+  "name": "Phoenix",
+  "aliases": [],
+  "file": "phoenix.png",
+  "image_url": "https://discord-decoration.art/decorations/phoenix.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Mythical Creatures"
+  ],
+  "description": "The symbol of running it back."
+ },
+ {
+  "name": "Dancing Fairies",
+  "aliases": [],
+  "file": "dancing_fairies.png",
+  "image_url": "https://discord-decoration.art/decorations/dancing_fairies.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Mythical Creatures"
+  ],
+  "description": "Catch us if you can!"
+ },
+ {
+  "name": "Crystal Elk",
+  "aliases": [],
+  "file": "crystal_elk.png",
+  "image_url": "https://discord-decoration.art/decorations/crystal_elk.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Mythical Creatures"
+  ],
+  "description": "Its antlers shimmer with the magic of ancient snowstorms."
+ },
+ {
+  "name": "Mermaid Serenade",
+  "aliases": [],
+  "file": "mermaid_serenade.png",
+  "image_url": "https://discord-decoration.art/decorations/mermaid_serenade.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Mythical Creatures"
+  ],
+  "description": "They seem to like you... but is that a good thing?"
+ },
+ {
+  "name": "Midnight Sorceress",
+  "aliases": [],
+  "file": "midnight_sorceress.png",
+  "image_url": "https://discord-decoration.art/decorations/midnight_sorceress.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Dark Fantasy"
+  ],
+  "description": "Wear the beauty of midnight."
+ },
+ {
+  "name": "Malefic Crown",
+  "aliases": [],
+  "file": "malefic_crown.png",
+  "image_url": "https://discord-decoration.art/decorations/malefic_crown.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Dark Fantasy"
+  ],
+  "description": "Fit for those who rule with an iron fist."
+ },
+ {
+  "name": "Death's Edge",
+  "aliases": [],
+  "file": "deaths_edge.png",
+  "image_url": "https://discord-decoration.art/decorations/deaths_edge.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Dark Fantasy"
+  ],
+  "description": "A great conversation starter... and ender."
+ },
+ {
+  "name": "Spirit Embers",
+  "aliases": [],
+  "file": "spirit_embers.png",
+  "image_url": "https://discord-decoration.art/decorations/spirit_embers.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Dark Fantasy"
+  ],
+  "description": "For protection against dark nights and unseen terrors."
+ },
+ {
+  "name": "Eldritch Ring",
+  "aliases": [],
+  "file": "eldritch_ring.png",
+  "image_url": "https://discord-decoration.art/decorations/eldritch_ring.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Dark Fantasy"
+  ],
+  "description": "For those days when you want to feel extra cursed."
+ },
+ {
+  "name": "Fire",
+  "aliases": [],
+  "file": "fire.png",
+  "image_url": "https://discord-decoration.art/decorations/fire.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Elements"
+  ],
+  "description": "Ignite your flame within."
+ },
+ {
+  "name": "Water",
+  "aliases": [],
+  "file": "water.png",
+  "image_url": "https://discord-decoration.art/decorations/water.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Elements"
+  ],
+  "description": "Control the ebb and flow."
+ },
+ {
+  "name": "Air",
+  "aliases": [],
+  "file": "air.png",
+  "image_url": "https://discord-decoration.art/decorations/air.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Elements"
+  ],
+  "description": "Will the wind."
+ },
+ {
+  "name": "Earth",
+  "aliases": [],
+  "file": "earth.png",
+  "image_url": "https://discord-decoration.art/decorations/earth.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Elements"
+  ],
+  "description": "Call the might of the earth."
+ },
+ {
+  "name": "Lightning",
+  "aliases": [],
+  "file": "lightning.png",
+  "image_url": "https://discord-decoration.art/decorations/lightning.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Elements"
+  ],
+  "description": "Electrify your presence."
+ },
+ {
+  "name": "Balance",
+  "aliases": [],
+  "file": "balance.png",
+  "image_url": "https://discord-decoration.art/decorations/balance.png",
+  "categories": [
+   "Fantasy & Magic"
+  ],
+  "collections": [
+   "Elements"
+  ],
+  "description": "Harness the elements."
+ },
+ {
+  "name": "Dream Dive Stars",
+  "aliases": [],
+  "file": "dream_dive_stars.png",
+  "image_url": "https://discord-decoration.art/decorations/dream_dive_stars.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Early Access Quest for a limited time. Available to use until November 14, 2025."
+ },
+ {
+  "name": "Mecha BREAK",
+  "aliases": [],
+  "file": "mecha_break.png",
+  "image_url": "https://discord-decoration.art/decorations/mecha_break.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Mecha BREAK Quest for a limited time. Available to use until September 14, 2025."
+ },
+ {
+  "name": "Starlight Revolver",
+  "aliases": [],
+  "file": "starlight_revolver.png",
+  "image_url": "https://discord-decoration.art/decorations/starlight_revolver.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Starlight Revolver Quest for a limited time. Available to use until August 14, 2025."
+ },
+ {
+  "name": "Wallach IX Spaceport",
+  "aliases": [],
+  "file": "wallach_spaceport.png",
+  "image_url": "https://discord-decoration.art/decorations/wallach_spaceport.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "The Wallach IX Spaceport is a dynamic port for space travel on the planet Wallach IX. This reward is exclusive to the Dune: Prophecy Quest. Available until to use January 25, 2025."
+ },
+ {
+  "name": "Cameraman Glitch",
+  "aliases": [],
+  "file": "cameraman_glitch.png",
+  "image_url": "https://discord-decoration.art/decorations/cameraman_glitch.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Skibidi Toilet"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Space Battle",
+  "aliases": [],
+  "file": "space_battle.png",
+  "image_url": "https://discord-decoration.art/decorations/space_battle.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Star Wars™"
+  ],
+  "description": "At the ready."
+ },
+ {
+  "name": "Starlight Whales",
+  "aliases": [],
+  "file": "starlight_whales.png",
+  "image_url": "https://discord-decoration.art/decorations/starlight_whales.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Insomnia"
+  ],
+  "description": "When the whales show up, sleep checks out."
+ },
+ {
+  "name": "Steampunk Cat Ears",
+  "aliases": [],
+  "file": "steampunk_cat_ears.png",
+  "image_url": "https://discord-decoration.art/decorations/steampunk_cat_ears.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Steampunk"
+  ],
+  "description": "⚙️ ^ • ⩊ • ^ ⚙️"
+ },
+ {
+  "name": "Mech Flora",
+  "aliases": [],
+  "file": "mech_flora.png",
+  "image_url": "https://discord-decoration.art/decorations/mech_flora.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Steampunk"
+  ],
+  "description": "Such charming contraptions in bloom, how exquisite!"
+ },
+ {
+  "name": "Bowler Hat",
+  "aliases": [],
+  "file": "bowler_hat.png",
+  "image_url": "https://discord-decoration.art/decorations/bowler_hat.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Steampunk"
+  ],
+  "description": "I'd tip my hat, but I fear its legs outrun my courtesy."
+ },
+ {
+  "name": "Brass Beats",
+  "aliases": [],
+  "file": "brass_beats.png",
+  "image_url": "https://discord-decoration.art/decorations/brass_beats.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Steampunk"
+  ],
+  "description": "Tune in, turn up, and let off a little steam."
+ },
+ {
+  "name": "Timekeeper's Clock",
+  "aliases": [],
+  "file": "timekeepers_clock.png",
+  "image_url": "https://discord-decoration.art/decorations/timekeepers_clock.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Steampunk"
+  ],
+  "description": "Capable of time travel by keystroke. Mind your misspellings."
+ },
+ {
+  "name": "Flux Alchemy",
+  "aliases": [],
+  "file": "flux_alchemy.png",
+  "image_url": "https://discord-decoration.art/decorations/flux_alchemy.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Steampunk"
+  ],
+  "description": "Would you care to be the centerpiece of a most daring concoction?"
+ },
+ {
+  "name": "Stardust",
+  "aliases": [],
+  "file": "stardust.png",
+  "image_url": "https://discord-decoration.art/decorations/stardust.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Galaxy"
+  ],
+  "description": "The essence of the cosmos."
+ },
+ {
+  "name": "Black Hole",
+  "aliases": [],
+  "file": "black_hole.png",
+  "image_url": "https://discord-decoration.art/decorations/black_hole.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Galaxy"
+  ],
+  "description": "An enigma of matter, space, and time."
+ },
+ {
+  "name": "Constellations",
+  "aliases": [],
+  "file": "constellations.png",
+  "image_url": "https://discord-decoration.art/decorations/constellations.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Galaxy"
+  ],
+  "description": "What secrets do the stars reveal?"
+ },
+ {
+  "name": "Solar Orbit",
+  "aliases": [],
+  "file": "solar_orbit.png",
+  "image_url": "https://discord-decoration.art/decorations/solar_orbit.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Galaxy"
+  ],
+  "description": "An eternal dance of fiery passion."
+ },
+ {
+  "name": "UFO",
+  "aliases": [],
+  "file": "ufo.png",
+  "image_url": "https://discord-decoration.art/decorations/ufo.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Galaxy"
+  ],
+  "description": "The perfect ride for any grab-and-go heist."
+ },
+ {
+  "name": "Astronaut Helmet",
+  "aliases": [],
+  "file": "astronaut_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/astronaut_helmet.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Galaxy"
+  ],
+  "description": "Always wear your helmet."
+ },
+ {
+  "name": "Glitch",
+  "aliases": [],
+  "file": "glitch.png",
+  "image_url": "https://discord-decoration.art/decorations/glitch.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Cyberpunk"
+  ],
+  "description": "Neurovisor disruption detected, please standby."
+ },
+ {
+  "name": "Cybernetic",
+  "aliases": [],
+  "file": "cybernetic.png",
+  "image_url": "https://discord-decoration.art/decorations/cybernetic.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Cyberpunk"
+  ],
+  "description": "Cybernetic visuals now online. Welcome aboard, runner."
+ },
+ {
+  "name": "Digital Sunrise",
+  "aliases": [],
+  "file": "digital_sunrise.png",
+  "image_url": "https://discord-decoration.art/decorations/digital_sunrise.png",
+  "categories": [
+   "Sci-Fi & Tech"
+  ],
+  "collections": [
+   "Cyberpunk"
+  ],
+  "description": "It's a new day in cyberspace."
+ },
+ {
+  "name": "Champions Tactibear",
+  "aliases": [],
+  "file": "champions_tactibear.png",
+  "image_url": "https://discord-decoration.art/decorations/champions_tactibear.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to VALORANT Champions Paris Quest for a limited time. Available to use until December 5, 2025."
+ },
+ {
+  "name": "Tactibear Flex",
+  "aliases": [],
+  "file": "tactibear_flex.png",
+  "image_url": "https://discord-decoration.art/decorations/tactibear_flex.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to VALORANT Invite Quest for a limited time. Available to use until December 12, 2025."
+ },
+ {
+  "name": "inZOI Psycat",
+  "aliases": [],
+  "file": "inzoi_psycat.png",
+  "image_url": "https://discord-decoration.art/decorations/inzoi_psycat.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to inZOI Update Quest Quest for a limited time. Available to use until October 25, 2025."
+ },
+ {
+  "name": "Cow Glider",
+  "aliases": [],
+  "file": "cow_glider.png",
+  "image_url": "https://discord-decoration.art/decorations/cow_glider.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to The Milk Cup Quest 2 Quest for a limited time. Available to use until October 20, 2025."
+ },
+ {
+  "name": "Jeff the Land Shark",
+  "aliases": [],
+  "file": "jeff_the_land_shark.png",
+  "image_url": "https://discord-decoration.art/decorations/jeff_the_land_shark.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Marvel Rivals Quest for a limited time. Available to use until March 16, 2025."
+ },
+ {
+  "name": "Rift Butterfly",
+  "aliases": [],
+  "file": "rift_butterfly.png",
+  "image_url": "https://discord-decoration.art/decorations/rift_butterfly.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "The Rift Butterfly is a type of sentient Rift that is shaped like a butterfly. This reward is exclusive to the Fortnite Quest. Available until to use February 5, 2025."
+ },
+ {
+  "name": "Wolf Morph",
+  "aliases": [],
+  "file": "wolf_morph.png",
+  "image_url": "https://discord-decoration.art/decorations/wolf_morph.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Your Morph can take on many unique forms and help you move throughout the world in THRONE AND LIBERTY. Available until to use November 30, 2024."
+ },
+ {
+  "name": "Bunny",
+  "aliases": [],
+  "file": "bunny.png",
+  "image_url": "https://discord-decoration.art/decorations/bunny.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Worn by Albion's speedster, Bunny, in The First Descendant. Available until to use November 12, 2024."
+ },
+ {
+  "name": "Greenhouse Cat",
+  "aliases": [],
+  "file": "greenhouse_cat.png",
+  "image_url": "https://discord-decoration.art/decorations/greenhouse_cat.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Secret Garden"
+  ],
+  "description": ""
+ },
+ {
+  "name": "a duck",
+  "aliases": [],
+  "file": "a_duck.png",
+  "image_url": "https://discord-decoration.art/decorations/a_duck.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Summer Bliss"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Gone Fishin'",
+  "aliases": [],
+  "file": "gone_fishin.png",
+  "image_url": "https://discord-decoration.art/decorations/gone_fishin.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Cozy Valley"
+  ],
+  "description": "The fish are really biting today!"
+ },
+ {
+  "name": "Sleepy Bee",
+  "aliases": [],
+  "file": "sleepy_bee.png",
+  "image_url": "https://discord-decoration.art/decorations/sleepy_bee.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Cozy Valley"
+  ],
+  "description": "Napping on the job, are we?"
+ },
+ {
+  "name": "Baker Bear",
+  "aliases": [],
+  "file": "baker_bear.png",
+  "image_url": "https://discord-decoration.art/decorations/baker_bear.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Cozy Valley"
+  ],
+  "description": "Here for the usual?"
+ },
+ {
+  "name": "Berry Bunny",
+  "aliases": [],
+  "file": "berry_bunny.png",
+  "image_url": "https://discord-decoration.art/decorations/berry_bunny.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "Fresh from the garden!"
+ },
+ {
+  "name": "Mochi Bunny (Pink)",
+  "aliases": [],
+  "file": "mochi_bunny_pink.png",
+  "image_url": "https://discord-decoration.art/decorations/mochi_bunny_pink.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "Let’s bounce!"
+ },
+ {
+  "name": "Mochi Bunny (Blue)",
+  "aliases": [],
+  "file": "mochi_bunny_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/mochi_bunny_blue.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "Let’s bounce!"
+ },
+ {
+  "name": "Donut Cow",
+  "aliases": [],
+  "file": "donut_cow.png",
+  "image_url": "https://discord-decoration.art/decorations/donut_cow.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "MOOOOO"
+ },
+ {
+  "name": "Donut Cat",
+  "aliases": [],
+  "file": "donut_cat.png",
+  "image_url": "https://discord-decoration.art/decorations/donut_cat.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "MEOWWW"
+ },
+ {
+  "name": "Donut Bear",
+  "aliases": [],
+  "file": "donut_bear.png",
+  "image_url": "https://discord-decoration.art/decorations/donut_bear.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "RAWRRR"
+ },
+ {
+  "name": "Bread Doggy",
+  "aliases": [],
+  "file": "bread_doggy.png",
+  "image_url": "https://discord-decoration.art/decorations/bread_doggy.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "What a good lil loaf."
+ },
+ {
+  "name": "Ice Cream Frog",
+  "aliases": [],
+  "file": "ice_cream_frog.png",
+  "image_url": "https://discord-decoration.art/decorations/ice_cream_frog.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "Hop right in!"
+ },
+ {
+  "name": "Jelly Bear",
+  "aliases": [],
+  "file": "jelly_bear.png",
+  "image_url": "https://discord-decoration.art/decorations/jelly_bear.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Chibi Cafe"
+  ],
+  "description": "So beary delicious!"
+ },
+ {
+  "name": "Chicken Nugget",
+  "aliases": [],
+  "file": "chicken_nugget.png",
+  "image_url": "https://discord-decoration.art/decorations/chicken_nugget.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Shenanigans"
+  ],
+  "description": "You want fries with that?"
+ },
+ {
+  "name": "Playful Lofi Cat",
+  "aliases": [],
+  "file": "playful_lofi_cat.png",
+  "image_url": "https://discord-decoration.art/decorations/playful_lofi_cat.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Lofi Girl"
+  ],
+  "description": "Goofy, fluffy, chunky..."
+ },
+ {
+  "name": "Cat Ear Headset",
+  "aliases": [],
+  "file": "cat_ear_headset.png",
+  "image_url": "https://discord-decoration.art/decorations/cat_ear_headset.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Kawaii Mode"
+  ],
+  "description": "(O)≽^ ᴖ ω ᴖ ^≼ (O)"
+ },
+ {
+  "name": "Bunny Zzzs",
+  "aliases": [],
+  "file": "bunny_zzzs.png",
+  "image_url": "https://discord-decoration.art/decorations/bunny_zzzs.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Kawaii Mode"
+  ],
+  "description": "Can the snoozers hop in voice already?!"
+ },
+ {
+  "name": "Cozy Cat",
+  "aliases": [],
+  "file": "cozy_cat.png",
+  "image_url": "https://discord-decoration.art/decorations/cozy_cat.png",
+  "categories": [
+   "Animals & Creatures"
+  ],
+  "collections": [
+   "Lofi Vibes"
+  ],
+  "description": "Vibing one catnap at a time."
+ },
+ {
+  "name": "Forest Frolic",
+  "aliases": [],
+  "file": "forest_frolic.png",
+  "image_url": "https://discord-decoration.art/decorations/forest_frolic.png",
+  "categories": [
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Blossomburst",
+  "aliases": [],
+  "file": "blossomburst.png",
+  "image_url": "https://discord-decoration.art/decorations/blossomburst.png",
+  "categories": [
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Secret Garden"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Sunflowers",
+  "aliases": [],
+  "file": "sunflowers.png",
+  "image_url": "https://discord-decoration.art/decorations/sunflowers.png",
+  "categories": [
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Summer Bliss"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Head In the Clouds",
+  "aliases": [],
+  "file": "head_in_the_clouds.png",
+  "image_url": "https://discord-decoration.art/decorations/head_in_the_clouds.png",
+  "categories": [
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Insomnia"
+  ],
+  "description": "Count the stars for those sleepless nights."
+ },
+ {
+  "name": "Head In the Clouds (Sunset)",
+  "aliases": [],
+  "file": "head_in_the_clouds_sunset.png",
+  "image_url": "https://discord-decoration.art/decorations/head_in_the_clouds_sunset.png",
+  "categories": [
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Insomnia"
+  ],
+  "description": "Count the stars for those sleepless nights."
+ },
+ {
+  "name": "Sproutling",
+  "aliases": [],
+  "file": "sproutling.png",
+  "image_url": "https://discord-decoration.art/decorations/sproutling.png",
+  "categories": [
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Kawaii Mode"
+  ],
+  "description": "Your very own bud who'll always root for you!"
+ },
+ {
+  "name": "Bloomling",
+  "aliases": [],
+  "file": "bloomling.png",
+  "image_url": "https://discord-decoration.art/decorations/bloomling.png",
+  "categories": [
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Kawaii Mode"
+  ],
+  "description": "Your very own bloom who wants to see you flourish!"
+ },
+ {
+  "name": "Implant",
+  "aliases": [],
+  "file": "implant.png",
+  "image_url": "https://discord-decoration.art/decorations/implant.png",
+  "categories": [
+   "Nature & Floral"
+  ],
+  "collections": [
+   "Cyberpunk"
+  ],
+  "description": "Get ready to jack in."
+ },
+ {
+  "name": "Lights, Camera, Action! (Teal)",
+  "aliases": [],
+  "file": "lights_camera_action_teal.png",
+  "image_url": "https://discord-decoration.art/decorations/lights_camera_action_teal.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Egg",
+  "aliases": [],
+  "file": "egg.png",
+  "image_url": "https://discord-decoration.art/decorations/egg.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "Shenanigans"
+  ],
+  "description": "It's egg."
+ },
+ {
+  "name": "Bubble Tea",
+  "aliases": [],
+  "file": "bubble_tea.png",
+  "image_url": "https://discord-decoration.art/decorations/bubble_tea.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "Kawaii Mode"
+  ],
+  "description": "Of course I need bubble tea every day. It's called self-care."
+ },
+ {
+  "name": "Fried Egg",
+  "aliases": [],
+  "file": "fried_egg.png",
+  "image_url": "https://discord-decoration.art/decorations/fried_egg.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "The Vault",
+   "Breakfast"
+  ],
+  "description": "I like mine sunny side-up."
+ },
+ {
+  "name": "Green Fried Egg",
+  "aliases": [],
+  "file": "green_fried_egg.png",
+  "image_url": "https://discord-decoration.art/decorations/green_fried_egg.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "The Vault"
+  ],
+  "description": "Wish there was some ham to go with this."
+ },
+ {
+  "name": "Morning Coffee",
+  "aliases": [],
+  "file": "morning_coffee.png",
+  "image_url": "https://discord-decoration.art/decorations/morning_coffee.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "The Vault",
+   "Breakfast"
+  ],
+  "description": "Don't talk to me until I finish this."
+ },
+ {
+  "name": "Toast",
+  "aliases": [],
+  "file": "toast.png",
+  "image_url": "https://discord-decoration.art/decorations/toast.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "The Vault",
+   "Breakfast"
+  ],
+  "description": "It is toast."
+ },
+ {
+  "name": "Burnt Toast",
+  "aliases": [],
+  "file": "burnt_toast.png",
+  "image_url": "https://discord-decoration.art/decorations/burnt_toast.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "The Vault"
+  ],
+  "description": "Why did you burn the toast."
+ },
+ {
+  "name": "Blueberry Jam",
+  "aliases": [],
+  "file": "blueberry_jam.png",
+  "image_url": "https://discord-decoration.art/decorations/blueberry_jam.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "Breakfast"
+  ],
+  "description": "MMMM JUICY"
+ },
+ {
+  "name": "Donut",
+  "aliases": [],
+  "file": "donut.png",
+  "image_url": "https://discord-decoration.art/decorations/donut.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "Breakfast"
+  ],
+  "description": "Never enough sprinkles"
+ },
+ {
+  "name": "Pancakes",
+  "aliases": [],
+  "file": "pancakes.png",
+  "image_url": "https://discord-decoration.art/decorations/pancakes.png",
+  "categories": [
+   "Food & Drink"
+  ],
+  "collections": [
+   "Breakfast"
+  ],
+  "description": "How high can you stack 'em?"
+ },
+ {
+  "name": "Jet Ring",
+  "aliases": [],
+  "file": "jet_ring.png",
+  "image_url": "https://discord-decoration.art/decorations/jet_ring.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "Surround your avatar with a pulse of Nitro energy."
+ },
+ {
+  "name": "Freshly Picked",
+  "aliases": [],
+  "file": "freshly_picked.png",
+  "image_url": "https://discord-decoration.art/decorations/freshly_picked.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "Now where's my blender? Given to Nitro gifters in June 2025."
+ },
+ {
+  "name": "Shower Stroll",
+  "aliases": [],
+  "file": "shower_stroll.png",
+  "image_url": "https://discord-decoration.art/decorations/shower_stroll.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "Chasing rainbows after the storm. Given to new Nitro subscribers in Spring 2025."
+ },
+ {
+  "name": "Hoppy Day",
+  "aliases": [],
+  "file": "hoppy_day.png",
+  "image_url": "https://discord-decoration.art/decorations/hoppy_day.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "Brb, out frolicking. Given to new Nitro subscribers in Spring 2025."
+ },
+ {
+  "name": "Afternoon Breeze",
+  "aliases": [],
+  "file": "afternoon_breeze.png",
+  "image_url": "https://discord-decoration.art/decorations/afternoon_breeze.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "A calm rest in the meadow. Given to new Nitro subscribers in Spring 2025."
+ },
+ {
+  "name": "Snowfall",
+  "aliases": [],
+  "file": "snowfall.png",
+  "image_url": "https://discord-decoration.art/decorations/snowfall.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "From chill to chilly. Given to Nitro gifters in December 2024."
+ },
+ {
+  "name": "2025 Balloons",
+  "aliases": [],
+  "file": "new_year_2025.png",
+  "image_url": "https://discord-decoration.art/decorations/new_year_2025.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Nitro"
+  ],
+  "description": "Cheers to 2025!! Given to Nitro gifters in December 2024."
+ },
+ {
+  "name": "The Final Peel",
+  "aliases": [],
+  "file": "the_final_peel.png",
+  "image_url": "https://discord-decoration.art/decorations/the_final_peel.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Fortnitemares Quest for a limited time. Available to use until December 20, 2025."
+ },
+ {
+  "name": "Warframe Clem",
+  "aliases": [],
+  "file": "warframe_clem.png",
+  "image_url": "https://discord-decoration.art/decorations/warframe_clem.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Warframe Quest for a limited time. Available to use until December 22, 2025."
+ },
+ {
+  "name": "Dart Monkey",
+  "aliases": [],
+  "file": "dart_monkey.png",
+  "image_url": "https://discord-decoration.art/decorations/dart_monkey.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Bloons TD 6 Dart Monkey Quest for a limited time. Available to use until December 26, 2025."
+ },
+ {
+  "name": "KOM",
+  "aliases": [],
+  "file": "kom.png",
+  "image_url": "https://discord-decoration.art/decorations/kom.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to King of Meat Avatar Quest for a limited time. Available to use until December 6, 2025."
+ },
+ {
+  "name": "Mr. M",
+  "aliases": [],
+  "file": "mr_m.png",
+  "image_url": "https://discord-decoration.art/decorations/mr_m.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Monopoly at McD's Quest for a limited time. Available to use until January 2, 2026."
+ },
+ {
+  "name": "FC 26 Icon",
+  "aliases": [],
+  "file": "fc_26_icon.png",
+  "image_url": "https://discord-decoration.art/decorations/fc_26_icon.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to EA SPORTS FC 26 Quest for a limited time. Available to use until December 8, 2025."
+ },
+ {
+  "name": "skate.",
+  "aliases": [],
+  "file": "skate.png",
+  "image_url": "https://discord-decoration.art/decorations/skate.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to skate. Trailer Quest for a limited time. Available to use until November 28, 2025."
+ },
+ {
+  "name": "Airona Fireworks",
+  "aliases": [],
+  "file": "airona_fireworks.png",
+  "image_url": "https://discord-decoration.art/decorations/airona_fireworks.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Blue Protocol: Star Resonance Quest for a limited time. Available to use until December 13, 2025."
+ },
+ {
+  "name": "Travel Ring",
+  "aliases": [],
+  "file": "travel_ring.png",
+  "image_url": "https://discord-decoration.art/decorations/travel_ring.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Sonic Racing: CrossWorlds Quest for a limited time. Available to use until December 1, 2025."
+ },
+ {
+  "name": "A Real Fungi",
+  "aliases": [],
+  "file": "a_real_fungi.png",
+  "image_url": "https://discord-decoration.art/decorations/a_real_fungi.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Cab Monster",
+  "aliases": [],
+  "file": "cab_monster.png",
+  "image_url": "https://discord-decoration.art/decorations/cab_monster.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to 2XKO Early Access Quest for a limited time. Available to use until December 17, 2025."
+ },
+ {
+  "name": "Black Phone 2",
+  "aliases": [],
+  "file": "black_phone_2.png",
+  "image_url": "https://discord-decoration.art/decorations/black_phone_2.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to The Black Phone 2 Main Quest for a limited time. Available to use until December 17, 2025."
+ },
+ {
+  "name": "Cosy Deer",
+  "aliases": [],
+  "file": "cosy_deer.png",
+  "image_url": "https://discord-decoration.art/decorations/cosy_deer.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Atsu's Mask",
+  "aliases": [],
+  "file": "atsus_mask.png",
+  "image_url": "https://discord-decoration.art/decorations/atsus_mask.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Ghost of Yōtei Quest for a limited time. Available to use until December 4, 2025."
+ },
+ {
+  "name": "Lights, Camera, Action! (Orange)",
+  "aliases": [],
+  "file": "lights_camera_action_orange.png",
+  "image_url": "https://discord-decoration.art/decorations/lights_camera_action_orange.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Hoppy Boi",
+  "aliases": [],
+  "file": "hoppy_boi.png",
+  "image_url": "https://discord-decoration.art/decorations/hoppy_boi.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Echo 4",
+  "aliases": [],
+  "file": "echo_4.png",
+  "image_url": "https://discord-decoration.art/decorations/echo_4.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Borderlands 4 Launch Quest for a limited time. Available to use until November 18, 2025."
+ },
+ {
+  "name": "NBA 2K26",
+  "aliases": [],
+  "file": "nba_2k26.png",
+  "image_url": "https://discord-decoration.art/decorations/nba_2k26.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to NBA 2K26 Quest for a limited time. Available to use until November 4, 2025."
+ },
+ {
+  "name": "The Conjuring: Last Rites",
+  "aliases": [],
+  "file": "the_conjuring_last_rites.png",
+  "image_url": "https://discord-decoration.art/decorations/the_conjuring_last_rites.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to The Conjuring Quest for a limited time. Available to use until November 7, 2025."
+ },
+ {
+  "name": "Eye of Prophesy",
+  "aliases": [],
+  "file": "eye_of_prophesy.png",
+  "image_url": "https://discord-decoration.art/decorations/eye_of_prophesy.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Path of Exile 2 Quests Quest for a limited time. Available to use until November 4, 2025."
+ },
+ {
+  "name": "ESPN",
+  "aliases": [],
+  "file": "espn.png",
+  "image_url": "https://discord-decoration.art/decorations/espn.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to ESPN Mobile Quest for a limited time. Available to use until October 25, 2025."
+ },
+ {
+  "name": "Wendy’s x Wednesday",
+  "aliases": [],
+  "file": "wendys_x_wednesday.png",
+  "image_url": "https://discord-decoration.art/decorations/wendys_x_wednesday.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to View If You Dare Quest for a limited time. Available to use until October 30, 2025."
+ },
+ {
+  "name": "BF Soldier Helmet",
+  "aliases": [],
+  "file": "bf_soldier_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/bf_soldier_helmet.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to BF6 Open Beta Quest for a limited time. Available to use until October 16, 2025."
+ },
+ {
+  "name": "Bing Bong",
+  "aliases": [],
+  "file": "bing_bong.png",
+  "image_url": "https://discord-decoration.art/decorations/bing_bong.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to PEAK Quest for a limited time. Available to use until October 16, 2025."
+ },
+ {
+  "name": "Hank Hill",
+  "aliases": [],
+  "file": "hank_hill.png",
+  "image_url": "https://discord-decoration.art/decorations/hank_hill.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to King of the Hill Quest for a limited time. Available to use until October 4, 2025."
+ },
+ {
+  "name": "The Entity",
+  "aliases": [],
+  "file": "the_entity.png",
+  "image_url": "https://discord-decoration.art/decorations/the_entity.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Dead by Daylight x TWD Quest for a limited time. Available to use until October 4, 2025."
+ },
+ {
+  "name": "Descendant",
+  "aliases": [],
+  "file": "descendant.png",
+  "image_url": "https://discord-decoration.art/decorations/descendant.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to The First Descendant Quest for a limited time. Available to use until October 13, 2025."
+ },
+ {
+  "name": "Sweet Tooth",
+  "aliases": [],
+  "file": "sweet_tooth.png",
+  "image_url": "https://discord-decoration.art/decorations/sweet_tooth.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Twisted Metal S2 Quest for a limited time. Available to use until October 6, 2025."
+ },
+ {
+  "name": "Chomp Chomp",
+  "aliases": [],
+  "file": "chomp_chomp.png",
+  "image_url": "https://discord-decoration.art/decorations/chomp_chomp.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to SUPERVIVE 1.0 Quest for a limited time. Available to use until October 9, 2025."
+ },
+ {
+  "name": "Call of Duty: Mobile",
+  "aliases": [],
+  "file": "call_of_duty_mobile.png",
+  "image_url": "https://discord-decoration.art/decorations/call_of_duty_mobile.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to CALL OF DUTY: MOBILE Quest for a limited time. Available to use until September 25, 2025."
+ },
+ {
+  "name": "THPS Half Pipe",
+  "aliases": [],
+  "file": "thps_half_pipe.png",
+  "image_url": "https://discord-decoration.art/decorations/thps_half_pipe.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the THPS 3+4 Quest for a limited time. Available to use until September 22, 2025."
+ },
+ {
+  "name": "Palia",
+  "aliases": [],
+  "file": "palia.png",
+  "image_url": "https://discord-decoration.art/decorations/palia.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Palia Play Quest for a limited time. Available to use until August 29, 2025."
+ },
+ {
+  "name": "SuperCell",
+  "aliases": [],
+  "file": "supercell.png",
+  "image_url": "https://discord-decoration.art/decorations/supercell.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the SuperCell Quest for a limited time. Available to use until August 28, 2025."
+ },
+ {
+  "name": "M3GAN 2.0",
+  "aliases": [],
+  "file": "m3gan_2_0.png",
+  "image_url": "https://discord-decoration.art/decorations/m3gan_2_0.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the M3GAN 2.0 Quest for a limited time. Available to use until August 21, 2025."
+ },
+ {
+  "name": "28 Years Later",
+  "aliases": [],
+  "file": "28_years_later.png",
+  "image_url": "https://discord-decoration.art/decorations/28_years_later.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the 28 Years Later Quest for a limited time. Available to use until August 21, 2025."
+ },
+ {
+  "name": "R6 Siege X Avatar",
+  "aliases": [],
+  "file": "r6_siege_x_avatar.png",
+  "image_url": "https://discord-decoration.art/decorations/r6_siege_x_avatar.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the R6 Siege X Avatar Quest for a limited time. Available to use until August 18, 2025."
+ },
+ {
+  "name": "Towerborne Play",
+  "aliases": [],
+  "file": "towerborne_play.png",
+  "image_url": "https://discord-decoration.art/decorations/towerborne_play.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Towerborne Play Quest for a limited time. Available to use until August 17, 2025."
+ },
+ {
+  "name": "Ballerina",
+  "aliases": [],
+  "file": "ballerina.png",
+  "image_url": "https://discord-decoration.art/decorations/ballerina.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Ballerina Trailer Quest for a limited time. Available to use until August 6, 2025."
+ },
+ {
+  "name": "Ultron",
+  "aliases": [],
+  "file": "ultron.png",
+  "image_url": "https://discord-decoration.art/decorations/ultron.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Marvel Rivals S2.5 Quest for a limited time. Available to use until August 5, 2025."
+ },
+ {
+  "name": "Open Beta",
+  "aliases": [],
+  "file": "open_beta.png",
+  "image_url": "https://discord-decoration.art/decorations/open_beta.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Open Beta Quest for a limited time. Available to use until July 24, 2025."
+ },
+ {
+  "name": "Jurassic World Rebirth Trailer",
+  "aliases": [],
+  "file": "jurassic_world_rebirth.png",
+  "image_url": "https://discord-decoration.art/decorations/jurassic_world_rebirth.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Jurassic World Rebirth Trailer Quest for a limited time. Available to use until July 25, 2025."
+ },
+ {
+  "name": "Mission: Impossible",
+  "aliases": [],
+  "file": "mission_impossible.png",
+  "image_url": "https://discord-decoration.art/decorations/mission_impossible.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Mission: Impossible Quest for a limited time. Available to use until July 24, 2025."
+ },
+ {
+  "name": "The Bad Guys 2 Trailer",
+  "aliases": [],
+  "file": "bad_guys_2.png",
+  "image_url": "https://discord-decoration.art/decorations/bad_guys_2.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Bad Guys 2 Trailer Quest for a limited time. Available to use until July 20, 2025."
+ },
+ {
+  "name": "Shield Saw",
+  "aliases": [],
+  "file": "shield_saw.png",
+  "image_url": "https://discord-decoration.art/decorations/shield_saw.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Doom Quest for a limited time. Available to use until July 11, 2025."
+ },
+ {
+  "name": "Friend of Dex",
+  "aliases": [],
+  "file": "friend_of_dex.png",
+  "image_url": "https://discord-decoration.art/decorations/friend_of_dex.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Fragpunk Season 1 Chapter 2 Quest for a limited time. Available to use until July 5, 2025."
+ },
+ {
+  "name": "Hackclaw",
+  "aliases": [],
+  "file": "hackclaw.png",
+  "image_url": "https://discord-decoration.art/decorations/hackclaw.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Delta Force Quest for a limited time. Available to use until June 27, 2025."
+ },
+ {
+  "name": "Slurp Barrel",
+  "aliases": [],
+  "file": "slurp_barrel.png",
+  "image_url": "https://discord-decoration.art/decorations/slurp_barrel.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Fortnite Reload Quest for a limited time. Available to use until June 20, 2025."
+ },
+ {
+  "name": "Signal from Tau Ceti",
+  "aliases": [],
+  "file": "signal_from_tau_ceti.png",
+  "image_url": "https://discord-decoration.art/decorations/signal_from_tau_ceti.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Marathon Reveal Quest for a limited time. Available to use until June 20, 2025."
+ },
+ {
+  "name": "Emma Frost",
+  "aliases": [],
+  "file": "emma_frost.png",
+  "image_url": "https://discord-decoration.art/decorations/emma_frost.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Marvel Rivals S2 Quest for a limited time. Available to use until June 18, 2025."
+ },
+ {
+  "name": "Face of Corruption",
+  "aliases": [],
+  "file": "face_of_corruption.png",
+  "image_url": "https://discord-decoration.art/decorations/face_of_corruption.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Path of Exile 2 Quest for a limited time. Available to use until June 17, 2025."
+ },
+ {
+  "name": "Clicker",
+  "aliases": [],
+  "file": "clicker.png",
+  "image_url": "https://discord-decoration.art/decorations/clicker.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to The Last of Us Season 2 Quest for a limited time. Available to use until June 13, 2025."
+ },
+ {
+  "name": "Touch Grass",
+  "aliases": [],
+  "file": "touch_grass.png",
+  "image_url": "https://discord-decoration.art/decorations/touch_grass.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "It’s time to touch some reality. Exclusive to April Fools 2025 for a limited time."
+ },
+ {
+  "name": "Supply Llama",
+  "aliases": [],
+  "file": "supply_llama.png",
+  "image_url": "https://discord-decoration.art/decorations/supply_llama.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Fortnite Quest for a limited time. Available to use until May 31, 2025."
+ },
+ {
+  "name": "Gallica",
+  "aliases": [],
+  "file": "gallica.png",
+  "image_url": "https://discord-decoration.art/decorations/gallica.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to Metaphor Rank Up Quest for a limited time. Available to use until May 18, 2025."
+ },
+ {
+  "name": "Khazan",
+  "aliases": [],
+  "file": "khazan.png",
+  "image_url": "https://discord-decoration.art/decorations/khazan.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Kazan Quest for a limited time. Available to use until May 17, 2025."
+ },
+ {
+  "name": "Split",
+  "aliases": [],
+  "file": "split.png",
+  "image_url": "https://discord-decoration.art/decorations/split.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Split Fiction Quest for a limited time. Available to use until May 12, 2025."
+ },
+ {
+  "name": "Pathojen",
+  "aliases": [],
+  "file": "pathojen.png",
+  "image_url": "https://discord-decoration.art/decorations/pathojen.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the FragPunk Launch Quest for a limited time. Available to use until May 13, 2025."
+ },
+ {
+  "name": "Big Dill Chain",
+  "aliases": [],
+  "file": "big_dill_chain.png",
+  "image_url": "https://discord-decoration.art/decorations/big_dill_chain.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Fortnite Quest for a limited time. Available to use until April 29, 2025."
+ },
+ {
+  "name": "Exoborne",
+  "aliases": [],
+  "file": "exoborne.png",
+  "image_url": "https://discord-decoration.art/decorations/exoborne.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Exoborne Wishlist Quest for a limited time. Available to use until April 18, 2025."
+ },
+ {
+  "name": "Scout",
+  "aliases": [],
+  "file": "scout.png",
+  "image_url": "https://discord-decoration.art/decorations/scout.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Sid Meier's Civilization VII Quest for a limited time. Available to use until April 26, 2025."
+ },
+ {
+  "name": "Fuchsia Agent",
+  "aliases": [],
+  "file": "fuchsia_agent.png",
+  "image_url": "https://discord-decoration.art/decorations/fuchsia_agent.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Strinova Fuchsia Quest for a limited time. Available to use until March 24, 2025."
+ },
+ {
+  "name": "WINGMAN'S GOT IT",
+  "aliases": [],
+  "file": "wingmans_got_it.png",
+  "image_url": "https://discord-decoration.art/decorations/wingmans_got_it.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the VALORANT GO GET EM WINGS Quest for a limited time. Available to use until March 12, 2025."
+ },
+ {
+  "name": "Rec Room Lightning",
+  "aliases": [],
+  "file": "rec_room_lightning.png",
+  "image_url": "https://discord-decoration.art/decorations/rec_room_lightning.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Rec Room Quest for a limited time. Available until to use March 1, 2025."
+ },
+ {
+  "name": "Shadow",
+  "aliases": [],
+  "file": "shadow.png",
+  "image_url": "https://discord-decoration.art/decorations/shadow.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to The Sonic 3 Quest for a limited time. Available until to use February 21, 2025."
+ },
+ {
+  "name": "TGA Controller",
+  "aliases": [],
+  "file": "tga_controller.png",
+  "image_url": "https://discord-decoration.art/decorations/tga_controller.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to The Game Awards Quest for a limited time. Available until to use February 14, 2025."
+ },
+ {
+  "name": "Shield Potion",
+  "aliases": [],
+  "file": "shield_potion.png",
+  "image_url": "https://discord-decoration.art/decorations/shield_potion.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Fortnite Ballistic Quest for a limited time. Available until to use February 16, 2025."
+ },
+ {
+  "name": "Bush Camper",
+  "aliases": [],
+  "file": "bush_camper.png",
+  "image_url": "https://discord-decoration.art/decorations/bush_camper.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Exclusive to the Fortnite OG Quest for a limited time. Available until to use February 11, 2025."
+ },
+ {
+  "name": "Batarang",
+  "aliases": [],
+  "file": "batarang.png",
+  "image_url": "https://discord-decoration.art/decorations/batarang.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "The Batarang is Batman’s legendary throwing weapon, blending precision and versatility to instill fear in his enemies. This reward is exclusive to the Become the Knight Quest. Available until to use February 8, 2025."
+ },
+ {
+  "name": "Torgal Puppy",
+  "aliases": [],
+  "file": "torgal_puppy.png",
+  "image_url": "https://discord-decoration.art/decorations/torgal_puppy.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Torgal the puppy is here to keep you company! This reward is exclusive to the FFXVI Quest. Available until to use November 23, 2024."
+ },
+ {
+  "name": "Hailey",
+  "aliases": [],
+  "file": "hailey.png",
+  "image_url": "https://discord-decoration.art/decorations/hailey.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Worn by the legendary sniper in The First Descendant. Available until to use November 6, 2024."
+ },
+ {
+  "name": "Los Santos",
+  "aliases": [],
+  "file": "los_santos.png",
+  "image_url": "https://discord-decoration.art/decorations/los_santos.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Get to the chopper! Los Santos sky-high pursuit! Available to use until October 14, 2024."
+ },
+ {
+  "name": "Wingman Boba",
+  "aliases": [],
+  "file": "wingman_boba.png",
+  "image_url": "https://discord-decoration.art/decorations/wingman_boba.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Your trusty VALORANT buddy, with a refreshing bubbly twist. Available to use until October 6, 2024."
+ },
+ {
+  "name": "Warp Helmet",
+  "aliases": [],
+  "file": "warp_helmet.png",
+  "image_url": "https://discord-decoration.art/decorations/warp_helmet.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "Traveling at the speed of light. Available to use until September 9, 2024."
+ },
+ {
+  "name": "Mokoko",
+  "aliases": [],
+  "file": "mokoko.png",
+  "image_url": "https://discord-decoration.art/decorations/mokoko.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "An affectionate Mokoko wants to give you plenty of hugs! Exclusive to Mokoko Quest 2024 for a limited time."
+ },
+ {
+  "name": "I'm a Clown",
+  "aliases": [],
+  "file": "im_a_clown.png",
+  "image_url": "https://discord-decoration.art/decorations/im_a_clown.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Quests"
+  ],
+  "description": "I opened a bunch of Loot Boxes and all I got was this stupid clown decoration. Exclusive to April Fools 2024 for a limited time."
+ },
+ {
+  "name": "Infinite Swirl",
+  "aliases": [],
+  "file": "infinite_swirl.png",
+  "image_url": "https://discord-decoration.art/decorations/infinite_swirl.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Orbs Exclusive"
+  ],
+  "description": ""
+ },
+ {
+  "name": "I’m Dancin’!",
+  "aliases": [],
+  "file": "im_dancin.png",
+  "image_url": "https://discord-decoration.art/decorations/im_dancin.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Borderlands 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Finger Gun",
+  "aliases": [],
+  "file": "finger_gun.png",
+  "image_url": "https://discord-decoration.art/decorations/finger_gun.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Borderlands 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Bandit Mask",
+  "aliases": [],
+  "file": "bandit_mask.png",
+  "image_url": "https://discord-decoration.art/decorations/bandit_mask.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Borderlands 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mad Moxxi",
+  "aliases": [],
+  "file": "mad_moxxi.png",
+  "image_url": "https://discord-decoration.art/decorations/mad_moxxi.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Borderlands 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Elpis",
+  "aliases": [],
+  "file": "elpis.png",
+  "image_url": "https://discord-decoration.art/decorations/elpis.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Borderlands 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Loot Lightshow",
+  "aliases": [],
+  "file": "loot_lightshow.png",
+  "image_url": "https://discord-decoration.art/decorations/loot_lightshow.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Borderlands 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Terrarium",
+  "aliases": [],
+  "file": "terrarium.png",
+  "image_url": "https://discord-decoration.art/decorations/terrarium.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Secret Garden"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Rainy Canopy",
+  "aliases": [],
+  "file": "rainy_canopy.png",
+  "image_url": "https://discord-decoration.art/decorations/rainy_canopy.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Secret Garden"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Snowdrops",
+  "aliases": [],
+  "file": "snowdrops.png",
+  "image_url": "https://discord-decoration.art/decorations/snowdrops.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Secret Garden"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Neon Decora Hair",
+  "aliases": [],
+  "file": "neon_decora_hair.png",
+  "image_url": "https://discord-decoration.art/decorations/neon_decora_hair.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Neon Spike Choker",
+  "aliases": [],
+  "file": "neon_spike_choker.png",
+  "image_url": "https://discord-decoration.art/decorations/neon_spike_choker.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Neon Spike Choker (Black)",
+  "aliases": [],
+  "file": "neon_spike_choker_black.png",
+  "image_url": "https://discord-decoration.art/decorations/neon_spike_choker_black.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mischievous Kitties",
+  "aliases": [],
+  "file": "mischievous_kitties.png",
+  "image_url": "https://discord-decoration.art/decorations/mischievous_kitties.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mischievous Kitties (Blue)",
+  "aliases": [],
+  "file": "mischievous_kitties_blue.png",
+  "image_url": "https://discord-decoration.art/decorations/mischievous_kitties_blue.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Skully Charms",
+  "aliases": [],
+  "file": "skully_charms.png",
+  "image_url": "https://discord-decoration.art/decorations/skully_charms.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Rawr xD",
+  "aliases": [],
+  "file": "rawr_xd.png",
+  "image_url": "https://discord-decoration.art/decorations/rawr_xd.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Rawr xD"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Gomah",
+  "aliases": [],
+  "file": "gomah.png",
+  "image_url": "https://discord-decoration.art/decorations/gomah.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Shenron",
+  "aliases": [],
+  "file": "shenron.png",
+  "image_url": "https://discord-decoration.art/decorations/shenron.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mini Goku",
+  "aliases": [],
+  "file": "mini_goku.png",
+  "image_url": "https://discord-decoration.art/decorations/mini_goku.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mini Vegeta",
+  "aliases": [],
+  "file": "mini_vegeta.png",
+  "image_url": "https://discord-decoration.art/decorations/mini_vegeta.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Glorio",
+  "aliases": [],
+  "file": "glorio.png",
+  "image_url": "https://discord-decoration.art/decorations/glorio.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mini Supreme Kai",
+  "aliases": [],
+  "file": "mini_supreme_kai.png",
+  "image_url": "https://discord-decoration.art/decorations/mini_supreme_kai.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Mini Piccolo",
+  "aliases": [],
+  "file": "mini_piccolo.png",
+  "image_url": "https://discord-decoration.art/decorations/mini_piccolo.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Panzy",
+  "aliases": [],
+  "file": "panzy.png",
+  "image_url": "https://discord-decoration.art/decorations/panzy.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Dragon Ball Daima"
+  ],
+  "description": ""
+ },
+ {
+  "name": "The Thing",
+  "aliases": [],
+  "file": "the_thing.png",
+  "image_url": "https://discord-decoration.art/decorations/the_thing.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Fantastic 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Invisible Woman",
+  "aliases": [],
+  "file": "invisible_woman.png",
+  "image_url": "https://discord-decoration.art/decorations/invisible_woman.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Fantastic 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Human Torch",
+  "aliases": [],
+  "file": "human_torch.png",
+  "image_url": "https://discord-decoration.art/decorations/human_torch.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Fantastic 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Silver Surfer",
+  "aliases": [],
+  "file": "silver_surfer.png",
+  "image_url": "https://discord-decoration.art/decorations/silver_surfer.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Fantastic 4"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Yunara",
+  "aliases": [],
+  "file": "yunara.png",
+  "image_url": "https://discord-decoration.art/decorations/yunara.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Spirit Blossom Beyond"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Speakerwoman",
+  "aliases": [],
+  "file": "speakerwoman.png",
+  "image_url": "https://discord-decoration.art/decorations/speakerwoman.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Skibidi Toilet"
+  ],
+  "description": ""
+ },
+ {
+  "name": "TV Woman",
+  "aliases": [],
+  "file": "tv_woman.png",
+  "image_url": "https://discord-decoration.art/decorations/tv_woman.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Skibidi Toilet"
+  ],
+  "description": ""
+ },
+ {
+  "name": "G-Toilet",
+  "aliases": [],
+  "file": "g_toilet.png",
+  "image_url": "https://discord-decoration.art/decorations/g_toilet.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Skibidi Toilet"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Juggernaut Astro",
+  "aliases": [],
+  "file": "juggernaut_astro.png",
+  "image_url": "https://discord-decoration.art/decorations/juggernaut_astro.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Skibidi Toilet"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Skibidi Toilet",
+  "aliases": [],
+  "file": "skibidi_toilet.png",
+  "image_url": "https://discord-decoration.art/decorations/skibidi_toilet.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Skibidi Toilet"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Sippy Juice",
+  "aliases": [],
+  "file": "sippy_juice.png",
+  "image_url": "https://discord-decoration.art/decorations/sippy_juice.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Summer Bliss"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Beach Hat",
+  "aliases": [],
+  "file": "beach_hat.png",
+  "image_url": "https://discord-decoration.art/decorations/beach_hat.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Summer Bliss"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Bubble",
+  "aliases": [],
+  "file": "bubble.png",
+  "image_url": "https://discord-decoration.art/decorations/bubble.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Summer Bliss"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Fireflies",
+  "aliases": [],
+  "file": "fireflies.png",
+  "image_url": "https://discord-decoration.art/decorations/fireflies.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "Summer Bliss"
+  ],
+  "description": ""
+ },
+ {
+  "name": "Izuku Midoriya",
+  "aliases": [],
+  "file": "izuku_midoriya.png",
+  "image_url": "https://discord-decoration.art/decorations/izuku_midoriya.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "My Hero Academia"
+  ],
+  "description": "Quirk: One For All"
+ },
+ {
+  "name": "Katsuki Bakugo",
+  "aliases": [],
+  "file": "katsuki_bakugo.png",
+  "image_url": "https://discord-decoration.art/decorations/katsuki_bakugo.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "My Hero Academia"
+  ],
+  "description": "Quirk: Explosion"
+ },
+ {
+  "name": "Ochaco Uraraka",
+  "aliases": [],
+  "file": "ochaco_uraraka.png",
+  "image_url": "https://discord-decoration.art/decorations/ochaco_uraraka.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "My Hero Academia"
+  ],
+  "description": "Quirk: Zero Gravity"
+ },
+ {
+  "name": "Shoto Todoroki",
+  "aliases": [],
+  "file": "shoto_todoroki.png",
+  "image_url": "https://discord-decoration.art/decorations/shoto_todoroki.png",
+  "categories": [
+   "Aesthetic & Vibe"
+  ],
+  "collections": [
+   "My Hero Academia"
+  ],
+  "description": "Quirk: Half-Cold Half-Hot"
+ }
+]

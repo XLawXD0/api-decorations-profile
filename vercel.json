@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/decorations.js": {
+      "includeFiles": "data/decorations.csv"
+    }
+  }
+}
